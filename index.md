@@ -19,16 +19,16 @@ description: ''
 
 #### Wirkungsorientiert fördern - auch mit geringen Personalressourcen
 
-**Tendenz zu wirkungsorientierter Förderung…  
-**Immer zahlreichere Förderorganisationen wollen nicht mehr einfach Gesuche entgegennehmen, sondern aktiv in ausgewählten Schwerpunktbereichen mit gezielten Fördermassnahmen in der Gesellschaft etwas bewirken.
+Tendenz zu wirkungsorientierter Förderung…  
+Immer zahlreichere Förderorganisationen wollen nicht mehr einfach Gesuche entgegennehmen, sondern aktiv in ausgewählten Schwerpunktbereichen mit gezielten Fördermassnahmen in der Gesellschaft etwas bewirken.
 
-**…aber nicht alle verfügen über die nötigen Ressourcen.  
-**Oft fehlt es jedoch an der Zeit, am Know-how oder es wird aus Sorge um zu hohe Verwaltungskosten darauf verzichtet.
+\**…aber nicht alle verfügen über die nötigen Ressourcen.  
+\**Oft fehlt es jedoch an der Zeit, am Know-how oder es wird aus Sorge um zu hohe Verwaltungskosten darauf verzichtet.
 
-**Lösung: Mandat für die Entwicklung umsetzungsbereiter Fördermassnahmen  
-**Ich recherchiere und entwickle gemeinsam mit den Organisationsverantwortlichen bedarfsorientierte, innovative Förderportfolios, Förderprogramme oder einzelne Födrdermassnahmen und begleite sie dabei, die gesellschaftliche Wirkung ihres Engagements zu erhöhen.
+\**Lösung: Mandat für die Entwicklung umsetzungsbereiter Fördermassnahmen  
+\**Ich recherchiere und entwickle gemeinsam mit den Organisationsverantwortlichen bedarfsorientierte, innovative Förderportfolios, Förderprogramme oder einzelne Födrdermassnahmen und begleite sie dabei, die gesellschaftliche Wirkung ihres Engagements zu erhöhen.
 
-**Resultat: Optimiertes Förderportfolio mit nachhaltiger gesellschaftlicher Wirkung  
-**Am Ende des gemeinsamen Entwicklungsprozesses stehen nicht nur umsetzungsbereite Fördermassnahmen und ein optimiertes Förderportfolio, sondern die Verantwortlichen verfügen auch über das nötige Know-how, künftig die Fördermodelle selber weiterzuentwickeln oder in anderen Förderbereichen neue zu erarbeiten (copy left).
+\**Resultat: Optimiertes Förderportfolio mit nachhaltiger gesellschaftlicher Wirkung  
+\**Am Ende des gemeinsamen Entwicklungsprozesses stehen nicht nur umsetzungsbereite Fördermassnahmen und ein optimiertes Förderportfolio, sondern die Verantwortlichen verfügen auch über das nötige Know-how, künftig die Fördermodelle selber weiterzuentwickeln oder in anderen Förderbereichen neue zu erarbeiten (copy left).
 
 > **_Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._**
