@@ -36,5 +36,5 @@ fields:
   label: Description
   description: 
 pages:
-- index.md
 - angebot.md
+- index.md
