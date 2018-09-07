@@ -15,6 +15,7 @@ banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
 <div style="float:right">
 ![](/uploads/Portraits Regula April 15 008 (2).JPG){:width="250px"}
 </div>
+
 > Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur Ihre Ziele erreichen können.
 
 #### Wirkungsorientiert fördern - auch mit geringen Personalressourcen
