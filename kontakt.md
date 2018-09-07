@@ -15,14 +15,8 @@ description: ''
 
 Grünmattstrasse 62
 
-8055 Zürich  
- 
+8055 Zürich
 
 Telefon: +41 76 512 89 33
 
-E-Mail: [Regula.Wolf@gmx.ch]()  
- 
-
-Linkedin: [www.linkedin.com/in/regula-wolf-971b8657]()
-
-Twitter: [https://twitter.com/RegulaWolf](https://twitter.com/RegulaWolf "https://twitter.com/RegulaWolf")
+E-Mail: [Regula.Wolf@gmx.ch]()
