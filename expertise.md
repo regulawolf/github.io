@@ -19,6 +19,6 @@ Die Stärken wie auch die Tücken eines effizienten Gesuchsmanagement sind mir v
 
 ![](/uploads/Portraits Regula April 15 008 (2).JPG)
 
-{:width="250px" style="float:right"}
+{:width="250px"}
 
 > **_In der föderalistischen Schweiz mit ihren über 13‘000 Stiftungen stehen die privaten Förderorganisationen vor der Herausforderung, sich da zu positionieren, wo der Bedarf gross ist und wo kaum andere Förderer sind. Nur so können sie mit ihren Mitteln nachhaltig etwas bewirken._**
