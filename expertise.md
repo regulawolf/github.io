@@ -15,9 +15,7 @@ Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich ver
 
 Während meiner vier Jahre beim Bundesamt für Kultur und elf Jahre als Leiterin der Abteilung „Förderbeiträge“ beim nationalen Migros-Kulturprozent habe ich mehrere Förderprogramme ausgearbeitet und umgesetzt. Beim Migros-Kulturprozent war ich auch zuständig für den Fonds für Entwicklungszusammenarbeit und Regionalentwicklung.
 
-Die Stärken wie auch die Tücken eines effizienten Gesuchsmanagement sind mir vertraut. Ich weiss, welche Fördermassnahmen wirkungsvoll greifen können und welche nicht. Ich kenne in den obgenannten Themenfeldern die öffentlichen und privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle.
-
-In folgenden Themenfeldern verfüge ich über Expertise: Kultur, Soziales, Bildung, Entwicklungszusammenarbeit, Regionalentwicklung, Umweltschutz, Arten- und Tierschutz, Forschung und Wissenschaft
+Die Stärken wie auch die Tücken eines effizienten Gesuchsmanagement sind mir vertraut. Ich weiss, welche Fördermassnahmen wirkungsvoll greifen können und welche nicht. Ich kenne in den folgenden Themenfeldern die öffentlichen und privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle: Kultur, Soziales, Bildung, Entwicklungszusammenarbeit, Regionalentwicklung, Umweltschutz, Arten- und Tierschutz, Forschung und Wissenschaft.
 
 ![](/uploads/Portraits Regula April 15 008 (2).JPG)
 
