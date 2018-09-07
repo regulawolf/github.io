@@ -1,4 +1,7 @@
---- layout: page title: Generic ---
+---
+layout: page
+title: Generic
+---
 
 ### Lorem ipsum dolor
 
