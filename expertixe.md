@@ -9,7 +9,6 @@ seo_title: Regula Wolf I Stiftungs- und Public Management
 banner_image: "/uploads/Portraits Regula April 15 008 (2).JPG"
 keywords: []
 description: ''
-published: false
 
 ---
 Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich verfüge über einen Master in Public Management (IDHEAP/ Universität Lausanne), eine Vertiefung im Stiftungsmanagement (ceps/ Universität Basel) und habe mehrere Weiterbildungen am Institut für Entwicklungszusammenarbeit (NADEL) an der ETH Zürich absolviert.
