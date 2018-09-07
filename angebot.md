@@ -23,8 +23,6 @@ description: ''
 * Begleitung bei der (neu-) Gestaltung **interner Prozesse**
 * Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau** (gesetzliche und organisatorische Aufgaben des Stiftungsrates, Governance-Grundsätze, Definition von Zuständigkeiten, Funktionen und Aufgaben)
 
-  ![](/uploads/cooparation.jpg)
-
-  {:width="250px" style="float:right"}
+![](/uploads/cooparation.jpg)
 
 > **_Kooperation statt Konkurrenz: Schubkraft dank Zusammenarbeit mit passenden Partnerorganisationen_**
