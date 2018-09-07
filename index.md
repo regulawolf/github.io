@@ -1,12 +1,12 @@
 ---
 layout: page
-menu_title: home
-banner_title: Stiftungs und Public Management
-banner_subtitle:
-seo_title:
-banner_image:
----
+menu_title: Home
+banner_title: Wirkungsorientiert fördern
+banner_subtitle: 
+seo_title: 
+banner_image: 
 
+---
 ### Wirkungsorientiert fördern: Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
 Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche Wirkung erzielen lässt
