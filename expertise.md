@@ -23,10 +23,8 @@ In folgenden Themenfeldern verfüge ich über Expertise: Kultur, Soziales, Bildu
 
 ![](/uploads/Schule.png)
 
-{:width="250px" style="float:right"}
+{:width="250px"}
 
-![](/uploads/Regenwald.png)
+![](/uploads/sansibar und tansania 08 163.JPG)
 
-{:width="250px" style="float:ri
-
-{:width="250px" style="float:right"}
+{:width="250px"}
