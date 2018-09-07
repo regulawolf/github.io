@@ -14,7 +14,7 @@ description: ''
 
 **Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen umsetzungsbereite einzelne Fördermassnahmen oder ganze Förderprogramme. Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.**
 
-> Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur Ihre Ziele erreichen können.
+> **_Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur Ihre Ziele erreichen können._**
 
 ### Wirkungsorientiert fördern - auch mit geringen Personalressourcen
 
