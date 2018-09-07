@@ -3,7 +3,7 @@ label: Pages
 hide_body: false
 is_partial: false
 fields:
-- type: select
+- type: text
   name: layout
   label: Layout
   description:
