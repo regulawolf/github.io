@@ -4,9 +4,10 @@ menu_title: home
 banner_title: Stiftungs und Public Management
 banner_subtitle:
 seo_title:
+banner_image:
 ---
 
-### **Wirkungsorientiert fördern: Angebote für Stiftungen, private und öffentliche Förderorganisationen**
+### Wirkungsorientiert fördern: Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
 Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche Wirkung erzielen lässt
 
@@ -14,7 +15,9 @@ Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche
 
 #### Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
-![](/uploads/Portraits Regula April 15 008 (2).JPG)Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen umsetzungsbereite einzelne Fördermassnahmen oder ganze Förderprogramme. Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
+![](/uploads/Portraits Regula April 15 008 (2).JPG)
+
+Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen umsetzungsbereite einzelne Fördermassnahmen oder ganze Förderprogramme. Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
 Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur Ihre Ziele erreichen können.
 
