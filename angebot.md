@@ -3,7 +3,7 @@ title: Angebot
 date: 2018-09-07 10:04:03 +0000
 layout: page
 menu_title: Angebot
-banner_title: Angebotspalette für Stiftungen, öffentliche und private Förderorganisationen
+banner_title: Angebote für Stiftungen, öffentliche und private Förderorganisationen
 banner_subtitle: strategisch - inhaltlich - organisatorisch
 seo_title: Regula Wolf I Stiftungs- und Public Management
 banner_image: "/uploads/gaia tree kulturpolitik_quer_dunkel.jpg"
@@ -11,6 +11,8 @@ keywords: []
 description: ''
 
 ---
+#### Angebotspalette
+
 * Erarbeitung des **Leitbildes**
 * Entwicklung der **Förderstrategie:** Analyse des Fördermarktes und des eigenen Leistungspotenzials, Recherche möglicher Förderschwerpunkte, Zielgruppen und Förderpartner, Entwicklung von übergeordneten und langfristigen Förderzielen
 * Redaktion des aus der Förderstrategie abgeleiteten Förderreglements
