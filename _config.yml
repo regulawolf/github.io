@@ -2,22 +2,22 @@
 #
 
 # Site settings
-title: Spectral
+title: Stiftungs- und Public Management
 description: |
-  Another fine responsive
-  site template freebie
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Wirkungsorientiert fördern: Angebote für Stiftungen, private und
+  öffentliche Förderorganisationen
+
+owner: Regula Wolf
+first_published: 2018
+email: regula.wolf@gmx.ch
+baseurl: ""
+url: "http://regulawolf.ch"
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  twitter: https://twitter.com/RegulaWolf
+  github: https://github.com/regulawolf
+  linkedin-square: https://linkedin.com/in/regula-wolf-971b8657
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
@@ -57,6 +57,5 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
-
 
 jumbo: gaia tree kulturpolitik.jpg
