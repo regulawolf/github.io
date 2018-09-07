@@ -13,7 +13,7 @@ Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche
 
 #### Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
-![](/uploads/Portraits Regula April 15 008 (2).JPG)
+![](/uploads/Portraits Regula April 15 008 (2).JPG =250x)
 
 Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen umsetzungsbereite einzelne Fördermassnahmen oder ganze Förderprogramme. Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
