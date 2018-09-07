@@ -23,7 +23,7 @@ fields:
   name: seo_title
   label: SEO Title
   description:
-- type: image
+- type: file
   name: banner_image
   label: Banner Image
   description:
