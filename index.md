@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Stiftungs und Public Management
-
+menu_title: home
+banner_title: Stiftungs und Public Management
+banner_subtitle:
+seo_title:
 ---
+
 ### **Wirkungsorientiert fördern: Angebote für Stiftungen, private und öffentliche Förderorganisationen**
 
 Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche Wirkung erzielen lässt
 
-    
+
 
 #### Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
