@@ -6,8 +6,7 @@ layout: landing
 
 <div class="inner">
 
-{{ site.title }}
-----------------
+## {{ site.title }}
 
 {{ site.description | markdownify }}
 
