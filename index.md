@@ -2,11 +2,11 @@
 layout: page
 menu_title: Home
 banner_title: Wirkungsorientiert fördern
-banner_subtitle: 
-seo_title: 
-banner_image: 
-
+banner_subtitle: subtitle
+seo_title: seo title
+banner_image: adf
 ---
+
 ### Wirkungsorientiert fördern: Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
 Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche Wirkung erzielen lässt
