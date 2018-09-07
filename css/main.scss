@@ -3,7 +3,7 @@
 ---
 
 $baseurl: '{{ site.baseurl }}/uploads';
-$jumbo: '{{site.baseurl}}/uploads/{{ site.jumbo }}';
+$jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 
 @import 'libs/vars';
 @import 'libs/functions';
