@@ -1,12 +1,12 @@
 ---
 layout: page
-banner_subtitle: Subtitle
-seo_title: SEO Title
-banner_image: gaia tree kulturpolitik.jpg
 menu_title: Home
 banner_title: Wirkungsorientiert fördern
----
+banner_subtitle: 
+seo_title: 
+banner_image: 
 
+---
 ### Wirkungsorientiert fördern: Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
 Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche Wirkung erzielen lässt
