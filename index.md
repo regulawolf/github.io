@@ -2,9 +2,9 @@
 layout: page
 menu_title: home
 banner_title: Stiftungs und Public Management
-banner_subtitle:
-seo_title:
-banner_image:
+banner_subtitle: Subtitle
+seo_title: SEO Title
+banner_image: gaia tree kulturpolitik.jpg
 ---
 
 ### Wirkungsorientiert fördern: Angebote für Stiftungen, private und öffentliche Förderorganisationen
