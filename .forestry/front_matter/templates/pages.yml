@@ -4,6 +4,26 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: dff
-  label: fefe
-  description: hf
+  name: layout
+  label: Layout
+  description:
+- type: text
+  name: menu_title
+  label: Menu Title
+  description:
+- type: text
+  name: banner_title
+  label: Banner Title
+  description:
+- type: text
+  name: banner_subtitle
+  label: Banner Subtitle
+  description:
+- type: text
+  name: seo_title
+  label: SEO Title
+  description:
+- type: image
+  name: banner_image
+  label: Banner Image
+  description:
