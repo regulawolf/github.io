@@ -35,3 +35,6 @@ fields:
   name: description
   label: Description
   description:
+pages:
+- angebot.md
+- index.md
