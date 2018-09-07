@@ -9,7 +9,6 @@ seo_title: Regula Wolf I Stiftungs- und Public Management
 banner_image: "/uploads/gaia tree kulturpolitik_quer_dunkel.jpg"
 keywords: []
 description: ''
-published: false
 
 ---
 **Regula Wolf, Stiftungs- und Public Management**
