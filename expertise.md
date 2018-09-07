@@ -6,7 +6,7 @@ menu_title: Expertise
 banner_title: Expertise
 banner_subtitle: ''
 seo_title: Regula Wolf I Stiftungs- und Public Management
-banner_image: "/uploads/Portraits Regula April 15 008 (2).JPG"
+banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
 keywords: []
 description: ''
 
