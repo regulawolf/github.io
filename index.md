@@ -2,17 +2,17 @@
 layout: page
 menu_title: Home
 banner_title: Wirkungsorientiert fördern
-banner_subtitle: Angebote für Stiftungen, private und öffentliche Förderorganisationen
+banner_subtitle: Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche
+  Wirkung erzielen lässt
 seo_title: Regula Wolf  I  Stiftungs- und Public Management
-banner_image: "/uploads/gaia tree kulturpolitik.jpg"
+banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
 
 ---
-
 #### Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
-![](/uploads/Portraits Regula April 15 008 (2).JPG){:width="250px"}
+**Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen umsetzungsbereite einzelne Fördermassnahmen oder ganze Förderprogramme. Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.**
 
-Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen umsetzungsbereite einzelne Fördermassnahmen oder ganze Förderprogramme. Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
+![](/uploads/Portraits Regula April 15 008 (2).JPG){:width="250px"}
 
 > Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur Ihre Ziele erreichen können.
 
@@ -34,4 +34,4 @@ Ich recherchiere und entwickle gemeinsam mit den Organisationsverantwortlichen b
 
 Am Ende des gemeinsamen Entwicklungsprozesses stehen nicht nur umsetzungsbereite Fördermassnahmen und ein optimiertes Förderportfolio, sondern die Verantwortlichen verfügen auch über das nötige Know-how, künftig die Fördermodelle selber weiterzuentwickeln oder in anderen Förderbereichen neue zu erarbeiten (copy left).
 
-> **_Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._**
+> _Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._
