@@ -6,7 +6,7 @@ menu_title: Angebot
 banner_title: Angebote für Stiftungen, öffentliche und private Förderorganisationen
 banner_subtitle: strategisch - inhaltlich - organisatorisch
 seo_title: Regula Wolf I Stiftungs- und Public Management
-banner_image: "/uploads/gaia tree kulturpolitik_quer_dunkel.jpg"
+banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
 keywords: []
 description: ''
 
