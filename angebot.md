@@ -23,4 +23,6 @@ description: ''
 
   ![](/uploads/cooparation.jpg)
 
+  {:width="250px" style="float:right"}
+
 > **_Kooperation statt Konkurrenz: Schubkraft dank Zusammenarbeit mit passenden Partnerorganisationen_**
