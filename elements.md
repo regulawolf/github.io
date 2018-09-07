@@ -1,4 +1,8 @@
---- layout: page title: Elements ---
+---
+layout: page
+title: Elements
+---
+
 <div class="section">
 
 #### Text
@@ -306,7 +310,7 @@ Not a robot
 
 <div class="12u$">
 
--   -   
+-   -
 
 </div>
 

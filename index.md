@@ -1,4 +1,7 @@
---- layout: landing ---
+---
+layout: landing
+---
+
 <div id="banner" class="section">
 
 <div class="inner">
