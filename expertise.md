@@ -17,8 +17,6 @@ Während meiner vier Jahre beim Bundesamt für Kultur und elf Jahre als Leiterin
 
 Die Stärken wie auch die Tücken eines effizienten Gesuchsmanagement sind mir vertraut. Ich weiss, welche Fördermassnahmen wirkungsvoll greifen können und welche nicht. In den folgenden Themenfeldern verfüge ich über Expertise und kenne ich die öffentlichen und privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle: Kultur, Soziales, Bildung, Entwicklungszusammenarbeit, Regionalentwicklung, Umweltschutz, Arten- und Tierschutz, Forschung und Wissenschaft.
 
-![](/uploads/Portraits Regula April 15 008 (2).JPG)
-
-{:width="250px"}
+![](/uploads/Portraits Regula April 15 008 (2)-1.JPG)
 
 > **_In der föderalistischen Schweiz mit ihren über 13‘000 Stiftungen stehen die privaten Förderorganisationen vor der Herausforderung, sich da zu positionieren, wo der Bedarf gross ist und wo kaum andere Förderer sind. Nur so können sie mit ihren Mitteln nachhaltig etwas bewirken._**
