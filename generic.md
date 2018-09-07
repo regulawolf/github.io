@@ -7,9 +7,7 @@ title: Stiftungs und Public Management
 
 Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche Wirkung erzielen lässt
 
-    ![](/uploads/gaia tree kulturpolitik.jpg)
-
-***
+    
 
 #### Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
@@ -17,7 +15,7 @@ Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche
 
 Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur Ihre Ziele erreichen können.
 
-#### Wirkungsorientiert fördern - auch mit geringen Personalressourcen 
+#### Wirkungsorientiert fördern - auch mit geringen Personalressourcen
 
 **Tendenz zu wirkungsorientierter Förderung…**
 
@@ -35,4 +33,4 @@ Ich recherchiere und entwickle gemeinsam mit den Organisationsverantwortlichen b
 
 Am Ende des gemeinsamen Entwicklungsprozesses stehen nicht nur umsetzungsbereite Fördermassnahmen und ein optimiertes Förderportfolio, sondern die Verantwortlichen verfügen auch über das nötige Know-how, künftig die Fördermodelle selber weiterzuentwickeln oder in anderen Förderbereichen neue zu erarbeiten (copy left).
 
-> **_Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._** 
+> **_Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._**
