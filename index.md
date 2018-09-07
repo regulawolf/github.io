@@ -4,10 +4,11 @@ menu_title: Home
 banner_title: Wirkungsorientiert fördern
 banner_subtitle: Angebote für Stiftungen, private und öffentliche Förderorganisationen
 seo_title: Regula Wolf  I  Stiftungs- und Public Management
-banner_image: "/uploads/gaia tree kulturpolitik.jpg"
+banner_image: "/uploads/gaia tree kulturpolitik_quer_dunkel.jpg"
+keywords: []
+description: ''
 
 ---
-
 #### Angebote für Stiftungen, private und öffentliche Förderorganisationen
 
 ![](/uploads/Portraits Regula April 15 008 (2).JPG){:width="250px" style="float:right"}
