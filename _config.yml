@@ -4,8 +4,8 @@
 # Site settings
 title: Spectral
 description: |
-  Another fine responsive  
-  site template freebie  
+  Another fine responsive
+  site template freebie
   crafted by [HTML5 UP](http://html5up.net)
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
@@ -57,3 +57,6 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+
+
+jumbo: gaia tree kulturpolitik.jpg
