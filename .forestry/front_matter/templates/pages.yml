@@ -3,7 +3,7 @@ label: Pages
 hide_body: false
 is_partial: false
 fields:
-- type: text
+- type: select
   name: layout
   label: Layout
   description:
@@ -26,4 +26,12 @@ fields:
 - type: image
   name: banner_image
   label: Banner Image
+  description:
+- type: tag_list
+  name: keywords
+  label: Keywords
+  description:
+- type: textarea
+  name: description
+  label: Description
   description:
