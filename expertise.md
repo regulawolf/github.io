@@ -23,3 +23,13 @@ In folgenden Themenfeldern verfüge ich über Expertise: Kultur, Soziales, Bildu
 > **_In der föderalistischen Schweiz mit ihren über 13‘000 Stiftungen stehen die privaten Förderorganisationen vor der Herausforderung, sich da zu positionieren, wo der Bedarf gross ist und wo kaum andere Förderer sind. Nur so können sie mit ihren Mitteln nachhaltig etwas bewirken._**
 
 ![](/uploads/Schule.png)
+
+{:width="250px" style="float:right"}
+
+![](/uploads/Regenwald.png)
+
+{:width="250px" style="float:right"}
+
+![](/uploads/KunstBina.jpg)
+
+{:width="250px" style="float:right"}
