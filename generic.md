@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stiftungs und Public Management
+title: Stiftungs- und Public Management
 
 ---
 ### **Wirkungsorientiert fördern: Angebote für Stiftungen, private und öffentliche Förderorganisationen**
