@@ -6,32 +6,32 @@ fields:
 - type: select
   name: layout
   label: Layout
-  description:
+  description: 
 - type: text
   name: menu_title
   label: Menu Title
-  description:
+  description: 
 - type: text
   name: banner_title
   label: Banner Title
-  description:
+  description: 
 - type: text
   name: banner_subtitle
   label: Banner Subtitle
-  description:
+  description: 
 - type: text
   name: seo_title
   label: SEO Title
-  description:
-- type: image
+  description: 
+- type: boolean
   name: banner_image
   label: Banner Image
-  description:
+  description: 
 - type: tag_list
   name: keywords
   label: Keywords
-  description:
+  description: 
 - type: textarea
   name: description
   label: Description
-  description:
+  description: 
