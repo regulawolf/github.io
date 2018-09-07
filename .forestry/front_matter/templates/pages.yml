@@ -1,0 +1,9 @@
+---
+label: Pages
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: dff
+  label: fefe
+  description: hf
