@@ -36,5 +36,6 @@ fields:
   label: Description
   description: 
 pages:
+- expertixe.md
 - angebot.md
 - index.md
