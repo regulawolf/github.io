@@ -27,8 +27,6 @@ In folgenden Themenfeldern verfüge ich über Expertise: Kultur, Soziales, Bildu
 
 ![](/uploads/Regenwald.png)
 
-{:width="250px" style="float:right"}
-
-![](/uploads/KunstBina.jpg)
+{:width="250px" style="float:ri
 
 {:width="250px" style="float:right"}
