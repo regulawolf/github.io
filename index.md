@@ -13,7 +13,7 @@ description: ''
 
 ![](/uploads/Portraits Regula April 15 008 (2).JPG){:width="250px" style="float:right"}
 
-Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen umsetzungsbereite einzelne Fördermassnahmen oder ganze Förderprogramme. Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
+**Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen umsetzungsbereite einzelne Fördermassnahmen oder ganze Förderprogramme. Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.**
 
 > Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur Ihre Ziele erreichen können.
 
