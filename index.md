@@ -19,10 +19,10 @@ Ich recherchiere und entwickle für Stiftungen und andere Förderorganisationen 
 #### Wirkungsorientiert fördern - auch mit geringen Personalressourcen
 
 Tendenz zu wirkungsorientierter Förderung…  
-Immer zahlreichere Förderorganisationen wollen nicht mehr einfach Gesuche entgegennehmen, sondern aktiv in ausgewählten Schwerpunktbereichen mit gezielten Fördermassnahmen in der Gesellschaft etwas bewirken.
+Immer zahlreichere Förderorganisationen wollen nicht mehr einfach Gesuche entgegennehmen, sondern aktiv in ausgewählten Schwerpunktbereichen mit gezielten Fördermassnahmen in der Gesellschaft etwas bewirken.…aber nicht alle 
 
-\**…aber nicht alle verfügen über die nötigen Ressourcen.  
-\**Oft fehlt es jedoch an der Zeit, am Know-how oder es wird aus Sorge um zu hohe Verwaltungskosten darauf verzichtet.
+verfügen über die nötigen Ressourcen.  
+Oft fehlt es jedoch an der Zeit, am Know-how oder es wird aus Sorge um zu hohe Verwaltungskosten darauf verzichtet.
 
 \**Lösung: Mandat für die Entwicklung umsetzungsbereiter Fördermassnahmen  
 \**Ich recherchiere und entwickle gemeinsam mit den Organisationsverantwortlichen bedarfsorientierte, innovative Förderportfolios, Förderprogramme oder einzelne Födrdermassnahmen und begleite sie dabei, die gesellschaftliche Wirkung ihres Engagements zu erhöhen.
