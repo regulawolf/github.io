@@ -5,7 +5,7 @@ layout: page
 menu_title: Expertise
 banner_title: Expertise
 banner_subtitle: ''
-seo_title: Regula Wolf I Stiftungs- und Public Management
+seo_title: Regula Wolf
 banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
 keywords: []
 description: ''
