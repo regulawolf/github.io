@@ -7,7 +7,12 @@ banner_title: Expertise
 banner_subtitle: ''
 seo_title: Regula Wolf
 banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
-keywords: []
+keywords:
+- Fördermassnahmen
+- Fördermodelle
+- Förderbeiträge
+- Regula Wolf
+- Gesuchsmanagement
 description: ''
 
 ---
