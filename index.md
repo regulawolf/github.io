@@ -4,7 +4,7 @@ menu_title: Home
 banner_title: Wirkungsorientiert fördern
 banner_subtitle: "Wie sich auch mit geringen Personalressourcen eine nachhaltige gesellschaftliche
   Wirkung erzielen lässt\v"
-seo_title: Regula Wolf  I  Stiftungs- und Public Management
+seo_title: Regula Wolf
 banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
 keywords: []
 description: ''
