@@ -37,8 +37,7 @@ description: Angebote für Stiftungen, private und öffentliche Förderorganisat
   Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
-#### **Förderkonzepte für Stiftungen,   
-private und öffentliche Förderorganisationen**
+#### **Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen**
 
 Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Ihnen fehlt es aber an der Zeit für die Analysen oder am Know-how?
 
