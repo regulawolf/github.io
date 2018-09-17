@@ -33,7 +33,8 @@ keywords:
 - Stiftungsmanagement
 - Förderkonzept
 description: Angebote für Stiftungen, private und öffentliche Förderorganisationen
-  für Förderkonzepte, Analysen, Recherchen, Gesuchsbearbeitung
+  für Förderkonzepte und umsetzungsbereite Fördermassnahmen, Analysen, Recherchen,
+  Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
 Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Ihnen fehlt es aber an der Zeit für die Analysen oder am Know-how?
