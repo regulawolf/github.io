@@ -37,11 +37,13 @@ description: Angebote für Stiftungen, private und öffentliche Förderorganisat
   Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
+#### **Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen**    
+
 Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Ihnen fehlt es aber an der Zeit für die Analysen oder am Know-how?
 
 Ich übernehme für Sie die Recherche, so dass Sie über eine ausgewogene Entscheidgrundlage für Ihre Förderstrategie verfügen. Oder ich entwickle gemeinsam mit Ihnen bedarfsorientierte und umsetzungsbereite Förderprogramme oder einzelne Fördermassnahmen. Am Ende steht nicht nur ein optimiertes Förderportfolio, sondern Sie verfügen zudem über die nötigen Grundlagen, um die Fördermodelle selber weiterzuentwickeln.
 
-Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung. 
+Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
 > **_Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._**
 
