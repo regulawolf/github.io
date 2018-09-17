@@ -44,13 +44,11 @@ Begleitung bei der Erarbeitung des **Leitbildes**: Analyse der Organisation und 
 
 Entwicklung der **Förderstrategie**: Erarbeitung von Entscheidgrundlagen wie Analyse der Stakeholder, des Fördermarktes, des eigenen Leistungspotenzials oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartnern, Förderzielen
 
-Redaktion des **Förderreglements**
-
 Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen **Fördermassnahmen** oder ganzen **Förderprogrammen**
 
 Begleitung beim Aufbau von **Kooperationen**
 
-**Redaktion** von Berichten und Reglementen
+**Redaktion** von Reglementen und Berichten
 
 Beratung beim Aufbau eines effizienten **Gesuchsmanagements**: vom Gesuchseingang über die Überweisung des Förderbeitrags bis hin zur Evaluation und zum Controlling
 
