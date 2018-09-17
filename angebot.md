@@ -41,7 +41,7 @@ description: Angebotspalette für Stiftungen, private und öffentliche Förderor
 #### Angebotspalette
 
 * Begleitung bei der Erarbeitung des **Leitbildes**: Analyse der Organisation und ihres Umfeldes
-* Entwicklung der **Förderstrategie**: Erarbeitung von Entscheidgrundlagen wie Analyse der Stakeholder, des Fördermarktes und des eigenen Leistungspotenzials, Recherche möglicher Förderschwerpunkte, Zielgruppen und Förderpartner, Entwicklung von Förderzielen
+* Entwicklung der **Förderstrategie**: Erarbeitung von Entscheidgrundlagen wie Analyse der Stakeholder, des Fördermarktes, des eigenen Leistungspotenzials oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartnern, Förderzielen
 * Redaktion des **Förderreglements**
 * Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen **Fördermassnahmen** oder ganzen **Förderprogrammen**
 * Begleitung beim Aufbau von **Kooperationen**
