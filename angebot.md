@@ -6,7 +6,7 @@ menu_title: Angebot
 banner_title: Angebote für Stiftungen, öffentliche und private Förderorganisationen
 banner_subtitle: strategisch - inhaltlich - organisatorisch
 seo_title: Stiftungs- und Public Management
-banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
+banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Stiftung
 - Stiftungen
