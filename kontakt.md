@@ -21,8 +21,6 @@ description: Kontakt Regula Wolf, Angebote für Stiftungen, private und öffentl
   Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
-Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können. 
-
 **Regula Wolf, Stiftungs- und Public Management**
 
 Grünmattstrasse 62
@@ -32,3 +30,7 @@ Grünmattstrasse 62
 Telefon: +41 76 512 89 33
 
 E-Mail: [Regula.Wolf@gmx.ch]()
+
+> Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.
+
+![](/uploads/KunstBina.jpg)
