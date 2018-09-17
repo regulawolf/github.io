@@ -5,12 +5,22 @@ layout: page
 menu_title: Kontakt
 banner_title: Kontakt
 banner_subtitle: Ich freue mich über Ihre Kontaktaufnahme!
-seo_title: Regula Wolf I Stiftungs- und Public Management
+seo_title: Stiftungs- und Public Management
 banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
-keywords: []
-description: ''
+keywords:
+- Kontakt
+- Regula
+- Wolf
+- Stiftungsmanagement
+- Sitfung
+- Stiftungen
+- Beratung
+- Schweiz
+description: Kontakt Regula Wolf, Stiftungs- und Public Management
 
 ---
+Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können. 
+
 **Regula Wolf, Stiftungs- und Public Management**
 
 Grünmattstrasse 62
