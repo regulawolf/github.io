@@ -16,7 +16,9 @@ keywords:
 - Stiftungen
 - Beratung
 - Schweiz
-description: Kontakt Regula Wolf, Stiftungs- und Public Management
+description: Kontakt Regula Wolf, Angebote für Stiftungen, private und öffentliche
+  Förderorganisationen für Förderkonzepte und umsetzungsbereite Fördermassnahmen,
+  Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
 Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können. 
