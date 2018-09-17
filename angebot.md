@@ -34,6 +34,8 @@ keywords:
 - Gesuchsmanagement
 - Organisationsaufbau
 description: Angebotspalette für Stiftungen, private und öffentliche Förderorganisationen
+  für Förderkonzepte und umsetzungsbereite Fördermassnahmen, Analysen, Recherchen,
+  Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
 #### Angebotspalette
