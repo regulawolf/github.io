@@ -4,7 +4,7 @@ menu_title: Home
 banner_title: 'Förderung, die wirkt '
 banner_subtitle: Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
 seo_title: Stiftungs- und Public Management
-banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
+banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Stiftung
 - Förderung
