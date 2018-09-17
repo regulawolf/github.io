@@ -33,7 +33,9 @@ keywords:
 - Tierschutz
 - Forschung
 - Wissenschaft
-description: Expertise Regula Wolf
+description: Expertise Regula Wolf, Angebote für Stiftungen, private und öffentliche
+  Förderorganisationen für Förderkonzepte und umsetzungsbereite Fördermassnahmen,
+  Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
 Während meiner vier Jahre beim Bundesamt für Kultur und elf Jahre als Leiterin der Abteilung „Förderbeiträge“ beim nationalen Migros-Kulturprozent habe ich mehrere Förderprogramme ausgearbeitet und umgesetzt. Beim Migros-Kulturprozent war ich auch zuständig für den Fonds für Entwicklungszusammenarbeit und Regionalentwicklung. 
