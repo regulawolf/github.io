@@ -40,16 +40,24 @@ description: Angebotspalette für Stiftungen, private und öffentliche Förderor
 ---
 #### Angebotspalette
 
-* Begleitung bei der Erarbeitung des **Leitbildes**: Analyse der Organisation und ihres Umfeldes
-* Entwicklung der **Förderstrategie**: Erarbeitung von Entscheidgrundlagen wie Analyse der Stakeholder, des Fördermarktes, des eigenen Leistungspotenzials oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartnern, Förderzielen
-* Redaktion des **Förderreglements**
-* Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen **Fördermassnahmen** oder ganzen **Förderprogrammen**
-* Begleitung beim Aufbau von **Kooperationen**
-* **Redaktion** von Berichten und Reglementen
-* Beratung beim Aufbau eines effizienten **Gesuchsmanagements**: vom Gesuchseingang über die Überweisung des Förderbeitrags bis hin zur Evaluation und zum Controlling
-* Begleitung bei der (neu-) Gestaltung **interner Prozesse**
-* Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau**:  
-  Definition von Zuständigkeiten, Funktionen und Aufgaben
+Begleitung bei der Erarbeitung des **Leitbildes**: Analyse der Organisation und ihres Umfeldes
+
+Entwicklung der **Förderstrategie**: Erarbeitung von Entscheidgrundlagen wie Analyse der Stakeholder, des Fördermarktes, des eigenen Leistungspotenzials oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartnern, Förderzielen
+
+Redaktion des **Förderreglements**
+
+Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen **Fördermassnahmen** oder ganzen **Förderprogrammen**
+
+Begleitung beim Aufbau von **Kooperationen**
+
+**Redaktion** von Berichten und Reglementen
+
+Beratung beim Aufbau eines effizienten **Gesuchsmanagements**: vom Gesuchseingang über die Überweisung des Förderbeitrags bis hin zur Evaluation und zum Controlling
+
+Begleitung bei der (neu-) Gestaltung **interner Prozesse**
+
+Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau**:  
+Definition von Zuständigkeiten, Funktionen und Aufgaben
 
 ![](/uploads/cooparation.jpg)
 
