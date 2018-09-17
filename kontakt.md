@@ -6,7 +6,7 @@ menu_title: Kontakt
 banner_title: Kontakt
 banner_subtitle: Ich freue mich über Ihre Kontaktaufnahme!
 seo_title: Stiftungs- und Public Management
-banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
+banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Kontakt
 - Regula
