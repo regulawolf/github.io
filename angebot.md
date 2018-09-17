@@ -5,23 +5,49 @@ layout: page
 menu_title: Angebot
 banner_title: Angebote für Stiftungen, öffentliche und private Förderorganisationen
 banner_subtitle: strategisch - inhaltlich - organisatorisch
-seo_title: Regula Wolf I Stiftungs- und Public Management
+seo_title: Stiftungs- und Public Management
 banner_image: "/uploads/gaia tree kulturpolitik_quer.jpg"
-keywords: []
-description: ''
+keywords:
+- Stiftung
+- Stiftungen
+- Förderung
+- Fördermassnahmen
+- Fördermodelle
+- Analyse
+- Aufbau
+- Förderstrategie
+- Neupositionierung
+- Förderorganisation
+- Beratung
+- Gesuche
+- Schweiz
+- Förderbeiträge
+- Finanzierungsbeiträge
+- Wirkung
+- Gesuchsbeitrag
+- Recherche
+- Förderkonzept
+- Leitbild
+- Förderprogramm
+- Kooperation
+- Redaktion
+- Gesuchsmanagement
+- Organisationsaufbau
+description: Angebotspalette für Stiftungen, private und öffentliche Förderorganisationen
 
 ---
 #### Angebotspalette
 
-* Erarbeitung des **Leitbildes**
-* Entwicklung der **Förderstrategie:** Analyse des Fördermarktes und des eigenen Leistungspotenzials, Recherche möglicher Förderschwerpunkte, Zielgruppen und Förderpartner, Entwicklung von übergeordneten und langfristigen Förderzielen
-* Redaktion des aus der Förderstrategie abgeleiteten Förderreglements
-* Entwicklung von umsetzungsbereiten **einzelnen Fördermassnahmen** oder ganzen **Förderprogrammen** (Analyse der Akteure, Recherche der konkreten Zielgruppe, des Förderbedarfs und –Potenzials, Definition von Förderzielen und -massnahmen, Recherche für geeignete Förderpartner)
+* Erarbeitung des **Leitbildes**: Analyse der Organisation und ihrem Umfeld
+* Entwicklung der **Förderstrategie**: Erarbeitung von Entscheidgrundlagen wie Analyse der Stakeholder, des Fördermarktes und des eigenen Leistungspotenzials, Recherche möglicher Förderschwerpunkte, Zielgruppen und Förderpartner, Entwicklung von Förderzielen
+* Redaktion des **Förderreglements**
+* Entwicklung von umsetzungsbereiten einzelnen **Fördermassnahmen** oder ganzen **Förderprogrammen**
 * Begleitung beim Aufbau von **Kooperationen**
-* **Redaktion** von Botschaften, Verordnungen, Berichten
+* **Redaktion** von Berichten und Reglementen
 * Beratung beim Aufbau eines effizienten **Gesuchsmanagements**: vom Gesuchseingang über die Überweisung des Förderbeitrags bis hin zur Evaluation und zum Controlling
-* Begleitung bei der (neu-) Gestaltung **interner Prozesse**
-* Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau** (gesetzliche und organisatorische Aufgaben des Stiftungsrates, Governance-Grundsätze, Definition von Zuständigkeiten, Funktionen und Aufgaben)
+* Begleitung bei der (neu-) Gestaltung **interner Prozesse** 
+* Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau**:   
+  Definition von Zuständigkeiten, Funktionen und Aufgaben
 
 ![](/uploads/cooparation.jpg)
 
