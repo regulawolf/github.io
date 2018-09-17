@@ -2,7 +2,7 @@
 layout: page
 menu_title: Home
 banner_title: 'Förderung, die wirkt '
-banner_subtitle: Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
+banner_subtitle: ''
 seo_title: Stiftungs- und Public Management
 banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
