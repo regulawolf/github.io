@@ -41,13 +41,11 @@ description: Angebote für Stiftungen, private und öffentliche Förderorganisat
 
 Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Ihnen fehlt es aber an der Zeit für die Analysen oder am Know-how?
 
-Ich übernehme für Sie die Recherche, so dass Sie über eine ausgewogene Entscheidgrundlage für Ihre Förderstrategie verfügen. Oder ich entwickle gemeinsam mit Ihnen bedarfsorientierte und umsetzungsbereite Förder-modelle. Am Ende steht nicht nur ein optimiertes Förderportfolio, sondern Sie verfügen zudem über die nötigen Grundlagen, um die Fördermodelle selber weiterzuentwickeln.
+Ich übernehme für Sie die Recherche, so dass Sie über eine ausgewogene Entscheidgrundlage für Ihre Förderstrategie verfügen. Oder ich entwickle gemeinsam mit Ihnen bedarfsorientierte und umsetzungsbereite Fördermodelle. Am Ende steht nicht nur ein optimiertes Förderportfolio, sondern Sie verfügen zudem über die nötigen Grundlagen, um die Fördermodelle selber weiterzuentwickeln.
 
 Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
 Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur eine Förderung entwickeln können, die wirkt.
-
-    
 
 > **_Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._**
 
