@@ -23,6 +23,15 @@ keywords:
 - Gesuchsbearbeitung
 - Recherche
 - Förderkonzept
+- Schweiz
+- Wirkung
+- Gesuche
+- Stiftungen
+- Fördermodell
+- Regula
+- Wolf
+- Stiftungsmanagement
+- Förderkonzept
 description: Angebote für Stiftungen, private und öffentliche Förderorganisationen
   für Förderkonzepte, Analysen, Recherchen, Gesuchsbearbeitung
 
