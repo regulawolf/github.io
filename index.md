@@ -43,9 +43,9 @@ Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ih
 
 Ich übernehme für Sie die Recherche, so dass Sie über eine ausgewogene Entscheidgrundlage für Ihre Förderstrategie verfügen. Oder ich entwickle gemeinsam mit Ihnen bedarfsorientierte und umsetzungsbereite Fördermodelle. Am Ende steht nicht nur ein optimiertes Förderportfolio, sondern Sie verfügen zudem über die nötigen Grundlagen, um die Fördermodelle selber weiterzuentwickeln.
 
-Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
+Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung. 
 
-Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur eine Förderung entwickeln können, die wirkt.
+Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können. Mit einer Förderung, die wirkt. 
 
 > **_Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._**
 
