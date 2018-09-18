@@ -33,6 +33,8 @@ Telefon: +41 76 512 89 33
 
 E-Mail: [Regula.Wolf@gmx.ch]()
 
+[linkedin.com/in/regulawolf ](https://www.linkedin.com/in/regulawolf)
+
 ![](/uploads/KunstBina.jpg)
 
 > **_Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können._**
