@@ -48,5 +48,3 @@ Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlic
 Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können. Mit einer Förderung, die wirkt.
 
 > **_Durch die Verbindung von meinem Förder-Know-how mit meinem Netzwerk und ausgewählten Fachexpertinnen und -experten gelange ich innerhalb kurzer Zeit zu einem ausgewogenen, umsetzungsbereiten und schlanken Fördermodell._**
-
-![](/uploads/gaia tree kulturpolitik_quer.jpg)
