@@ -57,7 +57,7 @@ Begleitung bei der (neu-) Gestaltung **interner Prozesse**
 Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau**:  
 Definition von Zuständigkeiten, Funktionen und Aufgaben
 
-Geschäftsführung im Mandatsverhältnis
+**Geschäftsführung** im Mandatsverhältnis
 
 ![](/uploads/cooparation.jpg)
 
