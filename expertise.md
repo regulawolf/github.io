@@ -44,7 +44,7 @@ Während meiner vier Jahre beim Bundesamt für Kultur und elf Jahre als Leiterin
 
 Die Stärken wie auch die Tücken eines effizienten Gesuchsmanagement sind mir vertraut. Ich weiss, welche Fördermassnahmen wirkungsvoll greifen können und welche nicht. In den nachstehenden Themenfeldern verfüge ich über Expertise und kenne die öffentlichen und privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle: Kultur, Soziales, Bildung, Entwicklungszusammenarbeit, Regionalentwicklung, Umweltschutz, Arten- und Tierschutz, Forschung und Wissenschaft.
 
-Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich verfüge über einen Master in Public Management (IDHEAP/ Universität Lausanne), eine Vertiefung im Stiftungsmanagement (ceps/ Universität Basel) und habe mehrere Weiterbildungen am Institut für Entwicklungszusammenarbeit (NADEL) an der ETH Zürich absolviert.
+Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich verfüge über einen Master in Public Management (IDHEAP/ Universität Lausanne), eine Vertiefung im Stiftungsmanagement (CEPS/ Universität Basel) und habe mehrere Weiterbildungen am Institut für Entwicklungszusammenarbeit (NADEL) an der ETH Zürich absolviert.
 
 ![](/uploads/Portraits Regula April 15 008 (2)-1.JPG)
 
