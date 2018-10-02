@@ -31,7 +31,7 @@ Grünmattstrasse 62
 
 Telefon: +41 76 512 89 33
 
-E-Mail: [Regula.Wolf@gmx.ch]()
+E-Mail: [Regula.Wolf@gmx.ch](mailto:Regula.Wolf@gmx.ch)
 
 [linkedin.com/in/regulawolf ](https://www.linkedin.com/in/regulawolf)
 
