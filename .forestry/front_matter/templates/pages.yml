@@ -37,6 +37,6 @@ fields:
   description: 
 pages:
 - index.md
-- expertise.md
-- kontakt.md
 - angebot.md
+- kontakt.md
+- expertise.md
