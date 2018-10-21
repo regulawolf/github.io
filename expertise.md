@@ -48,4 +48,4 @@ Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich ver
 
 ![](/uploads/Portraits Regula April 15 008 (2)-1.JPG)
 
-> **_Durch die Verbindung von meinem Förder-Know-how mit meinem nationalem Netzwerk gelange ich in kurzer Zeit zu einem wirkungs-vollen und ausgewogenen Förderkonzept._**
+> **_Durch die Verbindung von meinem Förder-Know-how mit meinem nationalen Netzwerk gelange ich in kurzer Zeit zu einem wirkungsvollen und ausgewogenen Förderkonzept._**
