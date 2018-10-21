@@ -40,8 +40,7 @@ description: Angebotspalette für Stiftungen, private und öffentliche Förderor
 ---
 #### Angebotspalette
 
-Entwicklung der Förderstrategie: Erarbeitung von Entscheidgrundlagen  
-wie Analyse der Stakeholder, des Fördermarktes, des eigenen Leistungspotenzials oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartner, Wirkungsziele
+Entwicklung der Förderstrategie: Erarbeitung von Entscheidgrundlagen wie Analyse der Stakeholder, des Fördermarktes, des eigenen Leistungspotenzials oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartner, Wirkungsziele
 
 Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen Fördermassnahmen oder ganzen Förderprogrammen
 
