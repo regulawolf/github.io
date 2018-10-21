@@ -49,7 +49,7 @@ Redaktion von Reglementen und Berichten
 
 Begleitung beim Aufbau von Kooperationen
 
-Beratung beim Aufbau eines effizienten Gesuchsmanagements:  
+Beratung beim Aufbau eines effizienten Gesuchsmanagement:  
 vom Gesuchseingang bis hin zur Evaluation
 
 Begleitung bei der (neu-) Gestaltung interner Prozesse
