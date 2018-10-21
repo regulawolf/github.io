@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-date: 2018-09-07 15:09:11 +0200
+date: 2018-09-07 13:09:11 +0000
 layout: page
 menu_title: Kontakt
 banner_title: Kontakt
@@ -21,7 +21,9 @@ description: Kontakt Regula Wolf, Angebote für Stiftungen, private und öffentl
   Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
-Ich freue mich über Ihre Kontaktaufnahme und treffe Sie gerne zu einem ersten, unverbindlichen Gespräch.
+Ich freue mich über Ihre Kontaktaufnahme!
+
+ 
 
 **Regula Wolf, Stiftungs- und Public Management**
 
@@ -35,4 +37,4 @@ E-Mail: [Regula.Wolf@gmx.ch](mailto:Regula.Wolf@gmx.ch)
 
 [linkedin.com/in/regulawolf ](https://www.linkedin.com/in/regulawolf)
 
-> **_Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig, wirkungsvoll und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können._**
+> **_Gerne treffe ich Sie zu einem ersten unverbindlichen Gespräch und passe meine Angebote massgeschneidert an die Bedürfnisse Ihrer Organisation an._** 
