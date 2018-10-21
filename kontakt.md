@@ -23,8 +23,8 @@ description: Kontakt Regula Wolf, Angebote für Stiftungen, private und öffentl
 ---
 Ich freue mich über Ihre Kontaktaufnahme!
 
-Regula Wolf  
-Stiftungs- und Public Management  
+**Regula Wolf  
+Stiftungs- und Public Management**  
 Grünmattstrasse 62  
 8055 Zürich
 
