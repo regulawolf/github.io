@@ -6,35 +6,35 @@ fields:
 - type: text
   name: layout
   label: Layout
-  description: 
+  description: a
 - type: text
   name: menu_title
   label: Menu Title
-  description: 
+  description: a
 - type: text
   name: banner_title
   label: Banner Title
-  description: 
+  description: a
 - type: text
   name: banner_subtitle
   label: Banner Subtitle
-  description: 
+  description: a
 - type: text
   name: seo_title
   label: SEO Title
-  description: 
+  description: a
 - type: file
   name: banner_image
   label: Banner Image
-  description: 
+  description: a
 - type: tag_list
   name: keywords
   label: Keywords
-  description: 
+  description: a
 - type: textarea
   name: description
   label: Description
-  description: 
+  description: a
 pages:
 - angebot.md
 - index.md
