@@ -1,11 +1,11 @@
 ---
 title: Kontakt
-date: 2018-09-07 13:09:11 +0000
+date: '2018-09-07T13:09:11.000+00:00'
 layout: page
 menu_title: Kontakt
 banner_title: Kontakt
 banner_subtitle: ''
-seo_title: Stiftungs- und Public Management
+seo_title: Regula Wolf I Förderung, die wirkt
 banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Kontakt
