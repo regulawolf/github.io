@@ -3,7 +3,7 @@ layout: page
 menu_title: Home
 banner_title: 'Förderung, die wirkt '
 banner_subtitle: ''
-seo_title: Stiftungs- und Public Management
+seo_title: Regula Wolf I Förderung, die wirkt
 banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Stiftung
