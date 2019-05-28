@@ -1,11 +1,11 @@
 ---
 title: Expertise
-date: 2018-09-07 13:24:01 +0000
+date: '2018-09-07T13:24:01.000+00:00'
 layout: page
 menu_title: Expertise
 banner_title: Expertise
 banner_subtitle: ''
-seo_title: Stiftungs- und Public Management
+seo_title: Regula Wolf I Förderung, die wirkt
 banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Fördermassnahmen
