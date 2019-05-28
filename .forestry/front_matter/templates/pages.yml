@@ -1,7 +1,6 @@
 ---
 label: Pages
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -37,6 +36,6 @@ fields:
   description: a
 pages:
 - angebot.md
-- index.md
-- expertise.md
 - kontakt.md
+- expertise.md
+- index.md

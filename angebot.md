@@ -1,11 +1,11 @@
 ---
 title: Angebot
-date: 2018-09-07 10:04:03 +0000
+date: '2018-09-07T10:04:03.000+00:00'
 layout: page
 menu_title: Angebot
 banner_title: Angebote für Stiftungen, öffentliche und private Förderorganisationen
 banner_subtitle: strategisch - inhaltlich - organisatorisch
-seo_title: Stiftungs- und Public Management
+seo_title: Regula Wolf - Förderung, die wirkt
 banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Stiftung
