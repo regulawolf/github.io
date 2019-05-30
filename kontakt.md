@@ -29,7 +29,7 @@ Grünmattstrasse 62
 8055 Zürich
 
 Telefon: +41 76 512 89 33  
-E-Mail: [Regula.Wolf@gmx.ch](mailto:Regula.Wolf@gmx.ch)  
+E-Mail: info@regulawolf.ch  
 [linkedin.com/in/regulawolf ](https://www.linkedin.com/in/regulawolf)
 
 > **_Gerne treffe ich Sie zu einem ersten unverbindlichen Gespräch und passe meine Angebote massgeschneidert an die Bedürfnisse Ihrer Organisation an._**
