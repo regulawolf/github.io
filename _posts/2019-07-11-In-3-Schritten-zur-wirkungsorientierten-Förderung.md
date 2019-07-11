@@ -9,7 +9,7 @@ keywords: []
 description: ''
 
 ---
-Dieser Artikel erschien ursprünglich in der Schweiz-online-Ausgabe 1-2019 vom Magazin "DIE STIFTUNG"   
+Dieser Artikel erschien ursprünglich in der Schweiz-online-Ausgabe 1-2019 vom Magazin "DIE STIFTUNG":  
 [https://www.die-stiftung.de/schweiz/in-drei-schritten-zu-einer-wirkungsorientierten-foerderung-83109/](https://www.die-stiftung.de/schweiz/in-drei-schritten-zu-einer-wirkungsorientierten-foerderung-83109/ "https://www.die-stiftung.de/schweiz/in-drei-schritten-zu-einer-wirkungsorientierten-foerderung-83109/")
 
 **In drei Schritten zu einer wirkungsorientierten Förderung**
