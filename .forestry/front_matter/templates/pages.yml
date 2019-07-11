@@ -35,10 +35,10 @@ fields:
   label: Description
   description: a
 pages:
+- blog.md
 - _posts/2019-07-11-In-3-Schritten-zur-wirkungsorientierten-Förderung.md
 - _posts/2019-07-11-Gestalten-statt-verwalten.md
 - kontakt.md
 - index.md
 - expertise.md
 - angebot.md
-- blog.md

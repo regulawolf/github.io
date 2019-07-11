@@ -11,7 +11,6 @@ description: ''
 ---
 **Gestalten statt verwalten**
 
-  
 Vor allem kleinere Förderstiftungen stecken ihre Mittel oft am liebsten zu 100 Prozent in die Projekte. Obgleich diese Überlegung nachvollziehbar ist, lohnt es sich doch weitaus mehr zu analysieren, wo genau der Bedarf liegt und was die Stiftung zur Lösung des Problems beitragen kann. Die Vorteile einer wirkungsorientierten Förderung.
 
 Von Regula Wolf
@@ -28,13 +27,11 @@ Diese relativ neue Methode braucht auf Dauer betrachtet nicht nur weniger Zeit, 
 
 **Aktive Förderinstrumente**
 
-Wie genau funktioniert der wirkungsorientierte Förderansatz? Hier wird das Pferd quasi von hinten aufgezäumt: Man betrachtet die eigene Förderung aus dem Blickwinkel der beabsichtigen Wirkung (welche auf der Grundlage einer soliden Bedarfsanalyse definiert wurde) und entwickelt passende Fördermassnahmen. Da Wirkung dabei auf unterschiedlichen Wegen erreicht werden kann, wird die „passive“ Gesuchsprüfung – die nach wie vor auch ihre Berechtigung hat – ergänzt durch eine Vielzahl an „aktiven“ Förderinstrumenten, zum Beispiel: strategische Kooperationen, Vergabe von Forschungsaufträgen, Ausschreibung von Wettbewerben, Mission investment, Netzwerkbildung, Kompetenzentwicklung, Beratung oder auch Mobilisierung (Advocacy), beispielsweise durch die Finanzierung von Think Thanks oder Umfragen.  
-  
+Wie genau funktioniert der wirkungsorientierte Förderansatz? Hier wird das Pferd quasi von hinten aufgezäumt: Man betrachtet die eigene Förderung aus dem Blickwinkel der beabsichtigen Wirkung (welche auf der Grundlage einer soliden Bedarfsanalyse definiert wurde) und entwickelt passende Fördermassnahmen. Da Wirkung dabei auf unterschiedlichen Wegen erreicht werden kann, wird die „passive“ Gesuchsprüfung – die nach wie vor auch ihre Berechtigung hat – ergänzt durch eine Vielzahl an „aktiven“ Förderinstrumenten, zum Beispiel: strategische Kooperationen, Vergabe von Forschungsaufträgen, Ausschreibung von Wettbewerben, Mission investment, Netzwerkbildung, Kompetenzentwicklung, Beratung oder auch Mobilisierung (Advocacy), beispielsweise durch die Finanzierung von Think Thanks oder Umfragen.
+
 Strategischer Stiftungsrat
 
 In der Folge der Orientierung auf die beabsichtigte Wirkung verschiebt sich – was die Förderung anbelangt – die Hauptaufgabe des Stiftungsrats: Sie liegt nicht mehr mehrheitlich in der Gesuchsprüfung, sondern verlagert sich nach vorne, in die strategische Setzung von Förderschwerpunkten und Wirkungszielen. Indem die Stiftung auf Schwerpunkte fokussiert, wird sie mittelfristig selber zu einer Expertin, kennt die zentralen Akteure, die politische Situation und den Bedarf. Dadurch benötigt sie deutlich weniger Zeit als bei der „passiven“ Gesuchsprüfung, um die wirklich guten und zur Stiftung passenden Projekte und Förderpartner ausfindig zu machen. Sie kann dank der Konzentration ihrer Mittel mehr Schubkraft im ausgewählten Themenfeld entwickeln und so ihren Zweck, einen wirksamen Beitrag an das Gemeinwohl zu leisten, bestmöglich erfüllen. Denn: eine gute Förderung ist mehr als die Summe ihrer Förderbeiträge.
-
-**Infokasten / Online-Hinweis:**
 
 Wer sich vertieft mit dem Thema auseinandersetzen möchte, kann unter [www.phineo.org](http://www.phineo.org) beim Beratungs- und Analysehaus Phineo die beiden kostenlosen Publikationen “Kursbuch Wirkung. Edition Schweiz“ und “Kursbuch Stiftungen“ gratis herunterladen oder bestellen.
 
