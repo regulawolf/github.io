@@ -9,7 +9,7 @@ keywords: []
 description: ''
 
 ---
-Dieser Artikel erschien ursprünglich in der Schweiz-Ausgabe 1-2019 vom Magazin "DIE STIFTUNG".
+_Dieser Artikel erschien ursprünglich in der Schweiz-Ausgabe 1-2019 vom Magazin "DIE STIFTUNG"._
 
 Vor allem kleinere Förderstiftungen stecken ihre Mittel oft am liebsten zu 100 Prozent in die Projekte. Obgleich diese Überlegung nachvollziehbar ist, lohnt es sich doch weitaus mehr zu analysieren, wo genau der Bedarf liegt und was die Stiftung zur Lösung des Problems beitragen kann. Die Vorteile einer wirkungsorientierten Förderung.
 
