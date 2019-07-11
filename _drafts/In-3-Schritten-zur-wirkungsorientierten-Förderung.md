@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 menu_title: In drei Schritten zu einer wirkungsorientierten Förderung
 banner_title: In drei Schritten zu einer wirkungsorientierten Förderung
 banner_subtitle: ''
