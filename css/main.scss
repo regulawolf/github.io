@@ -218,6 +218,11 @@ $jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 		}
 	}
 
+	section img,
+	article img {
+		width: 100%;
+	}
+
 	header {
 		p {
 			color: _palette(fg-light);
@@ -1833,3 +1838,12 @@ $jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 			}
 		}
 	}
+
+		.hide-for-small {
+			display: none;
+
+			@media screen and (min-width: 560px) {
+				display: inline;
+			}
+		}
+
