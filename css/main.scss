@@ -1874,3 +1874,11 @@ $jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 			}
 		}
 
+.inner h2 a {
+	text-transform: none;
+	letter-spacing: .05rem;
+}
+
+.inner ul li h2 {
+	margin-bottom: 0;
+}

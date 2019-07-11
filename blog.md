@@ -26,8 +26,7 @@ description: Kontakt Regula Wolf, Angebote für Stiftungen, private und öffentl
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <h2><a href="{{ post.url }}">{{ post.menu_title }}</a></h2>
     </li>
   {% endfor %}
 </ul>
