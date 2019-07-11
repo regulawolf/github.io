@@ -35,6 +35,7 @@ fields:
   label: Description
   description: a
 pages:
+- _posts/PHINEO-Zukunft-von-Stiftungen.md
 - blog.md
 - _posts/2019-07-11-In-3-Schritten-zur-wirkungsorientierten-Förderung.md
 - _posts/2019-07-11-Gestalten-statt-verwalten.md
