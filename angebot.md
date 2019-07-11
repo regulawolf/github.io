@@ -5,7 +5,7 @@ layout: page
 menu_title: Angebot
 banner_title: Angebote für Stiftungen, öffentliche und private Förderorganisationen
 banner_subtitle: strategisch - inhaltlich - organisatorisch
-seo_title: Regula Wolf - Förderung, die wirkt
+seo_title: Regula Wolf - Stiftungs- und Public Management
 banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Stiftung
