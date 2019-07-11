@@ -1,7 +1,7 @@
 ---
 layout: post
 menu_title: Wie sehen Stiftungen der Zukunft aus?
-banner_title: Eine lesenswerte Zusammenstellung von PHINEO
+banner_title: Wie sehen Stiftungen der Zukunft aus?
 banner_subtitle: ''
 seo_title: ''
 banner_image: ''
