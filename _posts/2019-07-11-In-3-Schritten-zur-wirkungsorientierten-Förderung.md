@@ -9,6 +9,9 @@ keywords: []
 description: ''
 
 ---
+Dieser Artikel erschien ursprünglich in der Schweiz-online-Ausgabe 1-2019 vom Magazin "DIE STIFTUNG"   
+[https://www.die-stiftung.de/schweiz/in-drei-schritten-zu-einer-wirkungsorientierten-foerderung-83109/](https://www.die-stiftung.de/schweiz/in-drei-schritten-zu-einer-wirkungsorientierten-foerderung-83109/ "https://www.die-stiftung.de/schweiz/in-drei-schritten-zu-einer-wirkungsorientierten-foerderung-83109/")
+
 **In drei Schritten zu einer wirkungsorientierten Förderung**
 
 Im vorhergehenden Blogeintrag beschrieb ich das Konzept der wirkungsorientierten Förderung als Alternative zur sogenannten passiven Förderung unaufgeforderter Gesuche. In Teil zwei skizziere ich nun die drei wichtigsten Schritte, wie Stiftungen zu einem eigenen wirkungsorientierten Förderkonzept gelangen.
