@@ -40,11 +40,13 @@ description: Angebotspalette für Stiftungen, private und öffentliche Förderor
 ---
 #### Angebotspalette
 
-Entwicklung der Förderstrategie: Erarbeitung von Entscheidgrundlagen wie Analyse der Stakeholder, des Fördermarktes, des eigenen Leistungspotenzials oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartner, Wirkungsziele
+Begleitung des Stiftungsrates und/oder der Geschäftsstelle beim Aufbau einer wirkungsorientierten Förderung
+
+Erstellung von Entscheidgrundlagen für die Förderstrategie wie Umfeld- und Bedarfsanalyse oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartner und Wirkungsziele
 
 Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen Fördermassnahmen oder ganzen Förderprogrammen
 
-Redaktion von Reglementen und Berichten
+Redaktion von Förderreglementen
 
 Begleitung beim Aufbau von Kooperationen
 
@@ -55,8 +57,6 @@ Begleitung bei der (neu-) Gestaltung interner Prozesse
 
 Beratung bei Fragen im Zusammenhang mit dem Organisationssaufbau:  
 Definition von Zuständigkeiten, Funktionen und Aufgaben
-
-Geschäftsführung im Mandatsverhältnis
 
 ![](/uploads/cooparation.jpg)
 
