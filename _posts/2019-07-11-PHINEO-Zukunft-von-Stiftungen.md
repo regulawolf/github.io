@@ -9,7 +9,7 @@ keywords: []
 description: ''
 
 ---
-Treffende 9 Thesen zur Zukunft von Stiftungen von PHINEO, dem unabhängigen und gemeinnützigen Analyse- und Beratungshaus für wirkungsvolles gesellschaftliches Engagement:  
+Stiftungen müssen sich entsprechend den gesellschaftlichen Veränderungen weiterentwickeln. PHINEO hat eine gute Übersicht erstellt, welche Themen besonders betroffen sind:  
 [https://www.phineo.org/themen/initiative-vertrauen-macht-wirkung](https://www.phineo.org/themen/initiative-vertrauen-macht-wirkung "https://www.phineo.org/themen/initiative-vertrauen-macht-wirkung")
 
 1. **Stiftungen der Zukunft haben diversere und partizipativere Stiftungsstrukturen.** Um den Anspruch, die Zivilgesellschaft zu gestalten und zu repräsentieren, glaubwürdig auszufüllen, leben sie Diversität, Geschlechtergerechtigkeit und partizipative Entscheidungsprozesse vor.
