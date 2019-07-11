@@ -5,7 +5,7 @@ layout: page
 menu_title: Expertise
 banner_title: Expertise
 banner_subtitle: ''
-seo_title: Regula Wolf I Förderung, die wirkt
+seo_title: Regula Wolf  I  Stiftungs- und Public Management
 banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Fördermassnahmen
@@ -40,7 +40,7 @@ description: Expertise Regula Wolf, Angebote für Stiftungen, private und öffen
 ---
 #### Über mich
 
-Während meiner vier Jahre beim Bundesamt für Kultur und elf Jahre als Leiterin der Abteilung „Förderbeiträge“ und Mitglied im Leitungsgremium der Direktion Kultur und Soziales des Migros-Genossenschafts-Bund MGB (nationales Migros-Kulturprozent) habe ich mehrere Förderprogramme ausgearbeitet und umgesetzt. Beim MGB war ich auch zuständig für den Migros-Fonds für Entwicklungszusammenarbeit und Regionalentwicklung.
+Während meiner vier Jahre beim Bundesamt für Kultur und elf Jahre als Leiterin der Abteilung „Förderbeiträge“ der Direktion Kultur und Soziales des Migros-Genossenschafts-Bund MGB (nationales Migros-Kulturprozent) habe ich mehrere Förderprogramme ausgearbeitet und umgesetzt. Beim MGB war ich auch zuständig für den Migros-Fonds für Entwicklungszusammenarbeit und Regionalentwicklung.
 
 Die Stärken wie auch die Tücken eines effizienten Gesuchsmanagement sind mir vertraut. Ich weiss, welche Fördermassnahmen wirkungsvoll greifen können und welche nicht. In den nachstehenden Themenfeldern verfüge ich über Expertise und kenne die öffentlichen und privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle: Kultur, Soziales, Bildung, Entwicklungszusammenarbeit, Regionalentwicklung.
 
