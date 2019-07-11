@@ -35,6 +35,7 @@ fields:
   label: Description
   description: a
 pages:
+- _posts/Gestalten-statt-verwalten.md
 - kontakt.md
 - index.md
 - expertise.md
