@@ -8,7 +8,8 @@
         <div id="menu">
           <ul>
             <li><a href="index.html">Home</a></li>
-            {% for my_page in site.pages %}
+            {% assign sorted = (site.pages | sort: 'date') %}
+            {% for my_page in sorted %}
             {% if my_page.title %}
             <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
             {% endif %}

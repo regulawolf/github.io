@@ -10,12 +10,14 @@ description: |
 
 owner: Regula Wolf
 first_published: 2018
-email: regula.wolf@gmx.ch
+email: info@regulawolf.ch
+tel: +41 76 512 89 33
 baseurl: ""
 url: "http://regulawolf.ch"
+
 social:
   twitter: https://twitter.com/RegulaWolf
-  github: https://github.com/regulawolf
+  # github: https://github.com/regulawolf
   linkedin-square: https://linkedin.com/in/regula-wolf-971b8657
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>

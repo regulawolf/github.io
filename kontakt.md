@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-date: '2018-09-07T13:09:11.000+00:00'
+date: '2019-03-07T13:09:11.000+00:00'
 layout: page
 menu_title: Kontakt
 banner_title: Kontakt

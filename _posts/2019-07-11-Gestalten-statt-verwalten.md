@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 menu_title: Gestalten statt verwalten
 banner_title: Gestalten statt verwalten
 banner_subtitle: ''

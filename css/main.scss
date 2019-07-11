@@ -131,8 +131,11 @@ $jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 	}
 
 	h4 {
-		font-size: 1em;
-		line-height: 1.5em;
+		text-transform: none;
+  font-weight: 600;
+  font-size: 1.2775rem;
+	letter-spacing: 0.01rem;
+	line-height: 1.4;
 	}
 
 	h5 {
@@ -590,10 +593,24 @@ $jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 			}
 		}
 
+		// &.contact {
+		// 	li {
+		// 		list-style: none;
+		// 		font-size: 1rem;
+		// 		margin-bottom: .5rem;
+
+		// 		a {
+		// 			text-decoration: none;
+		// 			border: none;
+		// 		}
+		// 	}
+		// }
+
 		&.icons {
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			margin-bottom: .5rem;
 
 			li {
 				display: inline-block;
@@ -1754,7 +1771,7 @@ $jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 			}
 		}
 
-		.copyright {
+		.copyright, .contact {
 			color: _palette(fg-light);
 			font-size: 0.8em;
 			letter-spacing: _size(letter-spacing-alt);
@@ -1789,6 +1806,16 @@ $jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 					line-height: 1.65em;
 					margin: 0;
 					padding: 0.5em 0;
+				}
+			}
+		}
+
+		.contact {
+			margin-bottom: .5rem;
+			li {
+				a {
+					text-transform: none;
+					border: none;
 				}
 			}
 		}
