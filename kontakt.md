@@ -5,7 +5,7 @@ layout: page
 menu_title: Kontakt
 banner_title: Kontakt
 banner_subtitle: ''
-seo_title: Regula Wolf I Förderung, die wirkt
+seo_title: Regula Wolf I Stiftungs- und Public Management
 banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords:
 - Kontakt
