@@ -4,7 +4,7 @@ menu_title: Wie sehen Stiftungen der Zukunft aus?
 banner_title: Wie sehen Stiftungen der Zukunft aus?
 banner_subtitle: ''
 seo_title: ''
-banner_image: ''
+banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords: []
 description: ''
 
