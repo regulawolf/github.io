@@ -42,7 +42,7 @@ description: Angebotspalette für Stiftungen, private und öffentliche Förderor
 
 Begleitung des Stiftungsrates oder der Geschäftsstelle beim Aufbau einer wirkungsorientierten Förderung
 
-Erstellung von Entscheidgrundlagen für die Förderstrategie wie Umfeld- und Bedarfsanalyse oder Recherche möglicher Förderschwerpunkte, Zielgruppen, Förderpartner und Wirkungsziele
+Erstellung von Entscheidgrundlagen für die Förderstrategie wie Umfeld- und Bedarfsanalyse oder Entwicklung möglicher Förderschwerpunkte, Zielgruppen, Förderpartner und Wirkungsziele
 
 Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen Fördermassnahmen oder ganzen Förderprogrammen
 
