@@ -4,7 +4,7 @@ menu_title: In drei Schritten zu einer wirkungsorientierten Förderung
 banner_title: In drei Schritten zu einer wirkungsorientierten Förderung
 banner_subtitle: ''
 seo_title: ''
-banner_image: ''
+banner_image: "/uploads/gaia tree Sigi.jpg"
 keywords: []
 description: ''
 
