@@ -6,7 +6,7 @@ menu_title: Angebot
 banner_title: Angebote für Stiftungen, öffentliche und private Förderorganisationen
 banner_subtitle: strategisch - inhaltlich - organisatorisch
 seo_title: Regula Wolf - Stiftungs- und Public Management
-banner_image: "/uploads/gaia tree Sigi.jpg"
+banner_image: "/uploads/IMG_9590.JPG"
 keywords:
 - Stiftung
 - Stiftungen

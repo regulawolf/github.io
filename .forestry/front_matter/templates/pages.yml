@@ -35,10 +35,10 @@ fields:
   label: Description
   description: a
 pages:
+- angebot.md
 - blog.md
 - expertise.md
 - kontakt.md
-- angebot.md
 - index.md
 - _posts/2019-07-11-PHINEO-Zukunft-von-Stiftungen.md
 - _posts/2019-07-11-In-3-Schritten-zur-wirkungsorientierten-Förderung.md
