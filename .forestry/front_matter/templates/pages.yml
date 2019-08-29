@@ -35,8 +35,8 @@ fields:
   label: Description
   description: a
 pages:
-- angebot.md
 - blog.md
+- angebot.md
 - expertise.md
 - kontakt.md
 - index.md
