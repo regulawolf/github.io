@@ -4,7 +4,7 @@ menu_title: Home
 banner_title: 'Förderung, die wirkt '
 banner_subtitle: ''
 seo_title: Regula Wolf I Förderung, die wirkt
-banner_image: "/uploads/gaia tree Sigi.jpg"
+banner_image: "/uploads/Guarini_Kapelle Sindone.jpg"
 keywords:
 - Stiftung
 - Förderung
