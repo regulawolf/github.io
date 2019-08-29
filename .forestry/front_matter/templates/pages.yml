@@ -35,9 +35,9 @@ fields:
   label: Description
   description: a
 pages:
+- index.md
 - angebot.md
 - kontakt.md
-- index.md
 - blog.md
 - expertise.md
 - _posts/2019-07-11-PHINEO-Zukunft-von-Stiftungen.md
