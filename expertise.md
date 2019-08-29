@@ -6,7 +6,7 @@ menu_title: Expertise
 banner_title: Expertise
 banner_subtitle: ''
 seo_title: Regula Wolf  I  Stiftungs- und Public Management
-banner_image: "/uploads/Stein im Wasser_2.jpg"
+banner_image: "/uploads/Guarini_Kapelle Sindone_Ausschnitt.jpg"
 keywords:
 - Fördermassnahmen
 - Fördermodelle
