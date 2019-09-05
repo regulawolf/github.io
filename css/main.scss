@@ -224,6 +224,7 @@ $jumbo: '{{site.baseurl}}/{{ site.jumbo }}';
 	section img,
 	article img {
 		width: 100%;
+		max-width: 600px;
 	}
 
 	header {
