@@ -35,8 +35,8 @@ fields:
   label: Description
   description: a
 pages:
-- kontakt.md
 - index.md
+- kontakt.md
 - angebot.md
 - blog.md
 - expertise.md
