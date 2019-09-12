@@ -1,7 +1,7 @@
 ---
 layout: page
 menu_title: Home
-banner_title: 'Für eine Förderung, die wirkt '
+banner_title: 'Förderung, die wirkt '
 banner_subtitle: ''
 seo_title: Regula Wolf I Förderung, die wirkt
 banner_image: "/uploads/IMG_9590_2.jpg"

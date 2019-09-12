@@ -35,9 +35,9 @@ fields:
   label: Description
   description: a
 pages:
+- index.md
 - Referenzprojekte.md
 - expertise.md
-- index.md
 - angebot.md
 - _posts/2019-07-11-Gestalten-statt-verwalten.md
 - _posts/2019-07-11-PHINEO-Zukunft-von-Stiftungen.md
