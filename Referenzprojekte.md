@@ -20,6 +20,18 @@ keywords:
 - Stiftung
 - Förderstiftung
 - Pro Helvetia
+- Förderung
+- Fördermassnahme
+- Gesuche
+- Finanzierungsbeiträge
+- Wirkung
+- Gesuchsbearbeitung
+- Schweiz
+- Regula
+- Wolf
+- Stiftungen
+- Stiftungsmanagement
+- Förderkonzept
 description: ''
 published: false
 
