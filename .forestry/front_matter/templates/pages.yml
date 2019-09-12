@@ -35,6 +35,7 @@ fields:
   label: Description
   description: a
 pages:
+- Referenzprojekte.md
 - index.md
 - angebot.md
 - expertise.md
