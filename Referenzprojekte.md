@@ -32,7 +32,9 @@ keywords:
 - Stiftungen
 - Stiftungsmanagement
 - Förderkonzept
-description: ''
+description: Referenzprojekte Regula Wolf, Angebote für Stiftungen, private und öffentliche
+  Förderorganisationen für Förderkonzepte und umsetzungsbereite Fördermassnahmen,
+  Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 published: false
 
 ---
