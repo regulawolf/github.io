@@ -1,7 +1,7 @@
 ---
 layout: page
 menu_title: Home
-banner_title: 'Förderung, die wirkt '
+banner_title: 'Für eine Förderung, die wirkt '
 banner_subtitle: ''
 seo_title: Regula Wolf I Förderung, die wirkt
 banner_image: "/uploads/IMG_9590_2.jpg"
@@ -37,14 +37,15 @@ description: Angebote für Stiftungen, private und öffentliche Förderorganisat
   Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
 
 ---
-#### Analysen und Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
+#### Analysen und wirkungsorientierte Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
 
-Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Ihnen fehlt es aber an der Zeit für die Analysen?
+Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken?
 
-Ich übernehme für Sie die Recherche- und die Analysearbeit als Grundlage für Ihre strategischen inhaltlichen Entscheide (z.B. für die Förderstrategie). Oder ich entwickle gemeinsam mit Ihnen bedarfsorientierte und umsetzungsbereite Fördermodelle.
+Ich begleite Sie beim Aufbau einer wirkungsorientierten Förderung. Dabei plane ich für Sie den Prozess mit den zentralen Meilensteinen, übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, begleite Sie bei der Entwicklung Ihrer Förderstrategie, von umsetzungsbereiten Fördermassnahmen oder beim Aufbau der Wirkungsmessung.
 
-Darüber hinaus begleite ich Förderorganisationen beim strategischen, inhaltlichen und organisatorischen Aufbau, bei der Überprüfung ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
+Darüber hinaus begleite ich Sie beim strategischen, inhaltlichen und organisatorischen Aufbau Ihrer Förderorganisation, bei der Überprüfung Ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
-Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können. Mit einer Förderung, die wirkt.
+Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.   
+Mit einer Förderung, die wirkt.
 
-> **_Beim inhaltlichen Aufbau oder einer Neuorientierung von Förderstiftungen fallen immer wieder Analysen an. Werden diese sorgfältig gemacht, ergibt sich ein solides Fundament für die Kernaufgabe von Stiftungen: die wirkungsvolle Förderung._**
+> Beim Aufbau oder der Neupositionierung der Förderung fallen immer wieder Analysen an. Werden diese sorgfältig gemacht, ergibt sich ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.
