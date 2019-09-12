@@ -40,11 +40,11 @@ description: Expertise Regula Wolf, Angebote für Stiftungen, private und öffen
 ---
 #### Über mich
 
-Während meiner vier Jahre beim Bundesamt für Kultur und elf Jahre als Leiterin der Abteilung „Förderbeiträge“ der Direktion Kultur und Soziales des Migros-Genossenschafts-Bund MGB (nationales Migros-Kulturprozent) habe ich mehrere Förderprogramme ausgearbeitet und umgesetzt. Beim MGB war ich auch zuständig für den Migros-Fonds für Entwicklungszusammenarbeit und Regionalentwicklung.
+Seit 2017 begleite ich Förderstiftungen auf vielfältige Weise und in unterschiedlichsten Themen im Zusammenhang mit ihrer Förderung. Zuvor arbeitete ich 16 Jahre lang in der institutionellen Förderung: Erst beim Bundesamt für Kultur, wo ich u.a. für die Förderung der kulturellen Organisationen zuständig war, dann elf Jahre als Leiterin der Abteilung „Förderbeiträge“ und Mitglied im Leitungsgremium der Direktion Kultur und Soziales des Migros-Genossenschafts-Bund MGB (nationales Migros-Kulturprozent). Beim MGB war ich zudem zuständig für den Fonds für Entwicklungszusammenarbeit und Regionalentwicklung. Ich habe während dieser Zeit mehrere Förderkonzepte ausgearbeitet und umgesetzt.
 
-Die Stärken wie auch die Tücken eines effizienten Gesuchsmanagement sind mir vertraut. Ich weiss, welche Fördermassnahmen wirkungsvoll greifen können und welche nicht. In den nachstehenden Themenfeldern verfüge ich über Expertise und kenne die öffentlichen und privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle: Kultur, Soziales, Bildung, Entwicklungszusammenarbeit, Regionalentwicklung.
+In den Themenfeldern Kultur, Soziales, Bildung und Entwicklungszusammenarbeit verfüge ich über Expertise und kenne die öffentlichen als auch privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle.
 
-Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich verfüge über einen Master in Public Management (IDHEAP/ Universität Lausanne), eine Vertiefung im Stiftungsmanagement (CEPS/ Universität Basel) und habe mehrere Weiterbildungen absolviert am Institut für Entwicklungszusammenarbeit der ETH Zürich (NADEL).
+Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich verfüge über einen Master in Public Management (IDHEAP/ Universität Lausanne), eine Vertiefung im Stiftungsmanagement (CEPS/ Universität Basel) und habe mehrere Weiterbildungen am Institut für Entwicklungszusammenarbeit (NADEL/ ETH Zürich) absolviert.
 
 ![](/uploads/Portraits Regula April 15 008 (2)-1.JPG)
 
