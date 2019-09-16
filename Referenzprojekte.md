@@ -35,7 +35,6 @@ keywords:
 description: Referenzprojekte Regula Wolf, Angebote für Stiftungen, private und öffentliche
   Förderorganisationen für Förderkonzepte und umsetzungsbereite Fördermassnahmen,
   Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
-published: false
 
 ---
 Stiftung für Kunst, Kultur und Geschichte (SKKG): Begleitung des Stiftungsrats beim Aufbau der Förderung im Bereich Kulturerbe
