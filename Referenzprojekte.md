@@ -45,7 +45,7 @@ Migros-Kulturprozent: Entwicklung Drehbuchförderung
 
 Migros-Kulturprozent: Ausweitung der Stipendien auf ein umfassendes Nachwuchsförderprogramm in den Bereichen Musik, Schauspiel, Tanz und Bewegungstheater
 
-Migros-Kulturprozent: In Zusammenarbeit mit den internen Fachpersonen Erneuerung des Strategieprozesses für rund 20 kulturelle und soziale Förderbereiche
+Migros-Kulturprozent: In Zusammenarbeit mit den internen Fachpersonen Entwicklung einer Förderstrategie für rund 20 kulturelle und soziale Förderbereiche
 
 Bundesamt für Kultur: Co-Leitung „Projekt Tanz“ in Zusammenarbeit mit den Kantonen, Städten, der Stiftung Pro Helvetia sowie Vertreterinnen und Vertretern der Tanzszene. Erarbeitung von Förderkonzepten in den Bereichen Ausbildung, Umschulung/Weiterbildung, Infrastruktur, Vermittlung, Wahrung
 
