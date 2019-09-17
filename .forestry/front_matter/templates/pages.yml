@@ -35,8 +35,8 @@ fields:
   label: Description
   description: a
 pages:
-- Referenzprojekte.md
 - angebot.md
+- Referenzprojekte.md
 - index.md
 - expertise.md
 - _posts/2019-07-11-Gestalten-statt-verwalten.md
