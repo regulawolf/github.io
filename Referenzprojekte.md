@@ -4,7 +4,7 @@ menu_title: Referenzprojekte
 banner_title: Referenzprojekte
 banner_subtitle: ''
 seo_title: Regula Wolf - Stiftungs- und Public Management
-banner_image: "/uploads/Lingotto.jpg"
+banner_image: "/uploads/steinwasser_2_Ausschnitt.jpg"
 keywords:
 - Förderstrategie
 - Fördermodell
