@@ -5,7 +5,7 @@ layout: page
 menu_title: Expertise
 banner_title: Expertise
 banner_subtitle: ''
-seo_title: Regula Wolf  I  Stiftungs- und Public Management
+seo_title: Regula Wolf I Stiftungs- und Public Management
 banner_image: "/uploads/Martinsloch_Zoom.jpg"
 keywords:
 - Fördermassnahmen
