@@ -42,7 +42,7 @@ description: Expertise Regula Wolf, Angebote für Stiftungen, private und öffen
 
 Seit 2017 begleite ich Förderstiftungen auf vielfältige Weise und in unterschiedlichsten Themen im Zusammenhang mit ihrer Förderung. Zuvor arbeitete ich 16 Jahre lang in der institutionellen Förderung: Erst beim Bundesamt für Kultur, wo ich u.a. für die Förderung der kulturellen Organisationen zuständig war, dann elf Jahre als Leiterin der Abteilung „Förderbeiträge“ und Mitglied im Leitungsgremium der Direktion Kultur und Soziales des Migros-Genossenschafts-Bund MGB (nationales Migros-Kulturprozent). Beim MGB war ich zudem zuständig für den Fonds für Entwicklungszusammenarbeit und Regionalentwicklung. Ich habe während dieser Zeit mehrere Förderkonzepte ausgearbeitet und umgesetzt.
 
-In den Themenfeldern Kultur, Soziales, Bildung und Entwicklungszusammenarbeit verfüge ich über Expertise und kenne die öffentlichen als auch privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle.
+In den Themenfeldern **Kultur, Soziales, Bildung und Entwicklungszusammenarbeit** verfüge ich über Expertise und kenne die öffentlichen als auch privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle.
 
 Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich verfüge über einen Master in Public Management (IDHEAP/ Universität Lausanne), eine Vertiefung im Stiftungsmanagement (CEPS/ Universität Basel) und habe mehrere Weiterbildungen am Institut für Entwicklungszusammenarbeit (NADEL/ ETH Zürich) absolviert.
 
