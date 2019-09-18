@@ -61,7 +61,7 @@ Begleitung bei der (neu-) Gestaltung interner **Prozesse**
 Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau**:  
 Definition von Zuständigkeiten, Funktionen und Aufgaben
 
-Redaktion von **Reglementen** und **Berichten**
+Redaktion von **Reglementen, Richtlinien** und **Berichten**
 
 ![](/uploads/cooparation.jpg)
 
