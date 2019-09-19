@@ -6,7 +6,7 @@ menu_title: Blog
 banner_title: Blog
 banner_subtitle: ''
 seo_title: Regula Wolf I Stiftungs- und Public Management
-banner_image: "/uploads/IMG_9590_2.jpg"
+banner_image: "/uploads/steinwasser_2_Ausschnitt.jpg"
 keywords:
 - Kontakt
 - Regula
