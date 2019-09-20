@@ -2,6 +2,12 @@
 label: Pages
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: 'Wichtig: Von Menü gebraucht'
 - type: text
   name: layout
   label: Layout
@@ -35,10 +41,10 @@ fields:
   label: Description
   description: a
 pages:
+- Referenzprojekte.md
 - blog.md
 - expertise.md
 - angebot.md
-- Referenzprojekte.md
 - index.md
 - _posts/2019-07-11-Gestalten-statt-verwalten.md
 - _posts/2019-07-11-PHINEO-Zukunft-von-Stiftungen.md
