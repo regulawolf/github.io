@@ -1,5 +1,6 @@
 ---
 layout: page
+date: '2018-09-08T13:24:01.000+00:00'
 title: Referenzprojekte
 menu_title: Referenzprojekte
 banner_title: Referenzprojekte
