@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Referenzprojekte
 menu_title: Referenzprojekte
 banner_title: Referenzprojekte
 banner_subtitle: ''
