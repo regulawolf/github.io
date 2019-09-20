@@ -8,6 +8,15 @@ fields:
     required: false
   label: Title
   description: 'Wichtig: Von Menü gebraucht'
+- name: date
+  type: datetime
+  label: Date
+  description: 'Wichtig: bestimmt die Menü-Reihenfolge'
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: text
   name: layout
   label: Layout
@@ -40,15 +49,6 @@ fields:
   name: description
   label: Description
   description: a
-- name: date
-  type: datetime
-  label: Date
-  description: 'Wichtig: bestimmt die Menü-Reihenfolge'
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
 pages:
 - Referenzprojekte.md
 - blog.md
