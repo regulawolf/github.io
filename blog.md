@@ -1,12 +1,12 @@
 ---
 title: Blog
-date: '2019-09-07T13:09:11.000+00:00'
+date: 2019-09-07T13:09:11.000+00:00
 layout: page
 menu_title: Blog
 banner_title: Blog
 banner_subtitle: ''
 seo_title: Regula Wolf I Stiftungs- und Public Management
-banner_image: "/uploads/steinwasser_2_Ausschnitt.jpg"
+banner_image: "/uploads/cooparation_2.jpg"
 keywords:
 - Kontakt
 - Regula
