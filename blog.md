@@ -6,7 +6,7 @@ menu_title: Blog
 banner_title: Blog
 banner_subtitle: ''
 seo_title: Regula Wolf I Stiftungs- und Public Management
-banner_image: "/uploads/Martinsloch_flacher.jpg"
+banner_image: "/uploads/cooparation_2.jpg"
 keywords:
 - Kontakt
 - Regula
