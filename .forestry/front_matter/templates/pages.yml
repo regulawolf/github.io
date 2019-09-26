@@ -8,7 +8,7 @@ fields:
     required: false
   label: Title
   description: 'Wichtig: Von Menü gebraucht'
-- name: date
+- name: Date_String
   type: datetime
   label: Date
   description: 'Wichtig: bestimmt die Menü-Reihenfolge'
