@@ -19,6 +19,7 @@ keywords:
 description: Kontakt Regula Wolf, Angebote für Stiftungen, private und öffentliche
   Förderorganisationen für Förderkonzepte und umsetzungsbereite Fördermassnahmen,
   Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
+Date_String: 2019-09-15 00:00:00 +0200
 
 ---
 Ich freue mich über Ihre Kontaktaufnahme!
