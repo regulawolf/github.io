@@ -1,6 +1,6 @@
 ---
 title: Blog
-date: 2019-09-07T13:09:11.000+00:00
+date: 2019-09-07 15:09:11 +0200
 layout: page
 menu_title: Blog
 banner_title: Blog
