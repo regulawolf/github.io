@@ -36,6 +36,7 @@ keywords:
 description: Expertise Regula Wolf, Angebote für Stiftungen, private und öffentliche
   Förderorganisationen für Förderkonzepte und umsetzungsbereite Fördermassnahmen,
   Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
+Date_String: 2019-09-25 00:00:00 +0200
 
 ---
 #### Über mich
