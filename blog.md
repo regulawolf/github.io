@@ -1,6 +1,6 @@
 ---
 title: Blog
-date: 2019-09-07 15:09:11 +0200
+date: '2019-09-07 15:09:11 +0200'
 layout: page
 menu_title: Blog
 banner_title: Blog
@@ -19,6 +19,7 @@ keywords:
 description: Kontakt Regula Wolf, Angebote für Stiftungen, private und öffentliche
   Förderorganisationen für Förderkonzepte und umsetzungsbereite Fördermassnahmen,
   Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
+Date_String: 2019-09-07 00:00:00 +0200
 
 ---
 <h1>Blog</h1>
