@@ -52,5 +52,3 @@ Darüber hinaus begleite ich Sie beim strategischen, inhaltlichen und organisato
 Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.
 
 Mit einer Förderung, die wirkt.
-
-> **Beim Aufbau oder der Neupositionierung der Förderung hat es sich bewährt, Umfeld- und Themenanalysen zu erstellen. Diese müssen nicht wissenschaftlich sein. Sie bieten ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.**
