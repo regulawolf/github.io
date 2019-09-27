@@ -53,3 +53,5 @@ Migros-Kulturprozent: In Zusammenarbeit mit den internen Fachpersonen Entwicklun
 Bundesamt für Kultur: Co-Leitung „Projekt Tanz“ in Zusammenarbeit mit den Kantonen, Städten, der Stiftung Pro Helvetia sowie Vertreterinnen und Vertretern der Tanzszene. Erarbeitung von Förderkonzepten in den Bereichen Ausbildung, Umschulung/Weiterbildung, Infrastruktur, Vermittlung, Wahrung
 
 Analysen: u.a. zu den Themen Kulturerbe, Partizipation in Museen, Ältere Arbeitnehmende, Investigativer Journalismus und Tanz
+
+![/uploads/cooparation.jpg](https://app.forestry.io/sites/x4dqfdfubch-eq/body-media//uploads/cooparation.jpg)
