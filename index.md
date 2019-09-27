@@ -53,4 +53,4 @@ Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisa
 
 Mit einer Förderung, die wirkt.
 
-> **Beim Aufbau oder der Neupositionierung der Förderung fallen immer wieder Analysen an. Werden diese sorgfältig gemacht, ergibt sich ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.**
+> **Beim Aufbau oder der Neupositionierung der Förderung hat es sich bewährt, Umfeld- und Themenanalysen zu erstellen. Diese müssen nicht wissenschaftlich sein. Sie bieten ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.**
