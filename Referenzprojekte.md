@@ -53,7 +53,3 @@ Migros-Kulturprozent: In Zusammenarbeit mit den internen Fachpersonen Entwicklun
 Bundesamt für Kultur: Co-Leitung „Projekt Tanz“ in Zusammenarbeit mit den Kantonen, Städten, der Stiftung Pro Helvetia sowie Vertreterinnen und Vertretern der Tanzszene. Erarbeitung von Förderkonzepten in den Bereichen Ausbildung, Umschulung/Weiterbildung, Infrastruktur, Vermittlung, Wahrung
 
 Analysen: u.a. zu den Themen Kulturerbe, Partizipation in Museen, Ältere Arbeitnehmende, Investigativer Journalismus und Tanz
-
-> **Regula Wolf begleitet die Entwicklung unserer Förderstrategie mit grossem Fachwissen und reichem Erfahrungshintergrund. Dabei unterstützt sie uns einerseits, indem sie auf uns zugeschnittene fundierte Abklärungen und Studien erarbeitet, zum andern spiegelt sie klug unsere Folgerungen und Überlegungen. Wir schätzen ihr kompetentes und unaufgeregtes Vorgehen und arbeiten sehr gern mit ihr zusammen.**
-
-Monika Wirth, Geschäftsführerin Sophie und Karl Binding Stiftung
