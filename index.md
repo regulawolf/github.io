@@ -41,7 +41,7 @@ Date_String:
 ---
 #### Analysen und wirkungsorientierte Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
 
-Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Sie wollen wissen, ob Ihr Engagement tatsächlich einen Unterschied macht? 
+Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Sie wollen wissen, ob Ihr Engagement tatsächlich einen Unterschied macht?
 
 Ich begleite Sie beim Aufbau einer wirkungsorientierten Förderung. Dabei plane ich für Sie den Prozess mit den zentralen Meilensteinen, übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, begleite Sie bei der Entwicklung Ihrer Förderstrategie, von umsetzungsbereiten Fördermassnahmen oder beim Aufbau der Wirkungsmessung.
 
@@ -53,4 +53,4 @@ Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisa
 
 Mit einer Förderung, die wirkt.
 
-> Beim Aufbau oder der Neupositionierung der Förderung fallen immer wieder Analysen an. Werden diese sorgfältig gemacht, ergibt sich ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.
+> **Beim Aufbau oder der Neupositionierung der Förderung fallen immer wieder Analysen an. Werden diese sorgfältig gemacht, ergibt sich ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.**
