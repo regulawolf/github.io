@@ -43,14 +43,12 @@ Date_String:
 
 Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Sie wollen wissen, ob Ihr Engagement tatsächlich einen Unterschied macht?
 
-Ich begleite Sie beim Aufbau einer wirkungsorientierten Förderung. Dabei plane ich für Sie den Prozess mit den zentralen Meilensteinen, übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, begleite Sie bei der Entwicklung Ihrer Förderstrategie, von umsetzungsbereiten Fördermassnahmen oder beim Aufbau der Wirkungsmessung.
-
+Ich begleite Sie beim Aufbau einer wirkungsorientierten Förderung. Dabei plane ich für Sie den Prozess mit den zentralen Meilensteinen, übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, begleite Sie bei der Entwicklung Ihrer Förderstrategie, von umsetzungsbereiten Fördermassnahmen oder beim Aufbau der Wirkungsmessung.  
 Darüber hinaus begleite ich Sie beim strategischen, inhaltlichen und organisatorischen Aufbau Ihrer Förderorganisation, bei der Überprüfung Ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
 **Durch die Verbindung von meinem langjährigen Förder-Know-how mit meinem nationalen Netzwerk auf allen förderalen Ebenen gelange ich in kurzer Zeit zu einem qualitativ hochwertigen Resultat.**
 
-Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.
-
+Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.  
 Mit einer Förderung, die wirkt.
 
 > **Regula Wolf begleitet die Entwicklung unserer Förderstrategie mit grossem Fachwissen und reichem Erfahrungshintergrund. Dabei unterstützt sie uns einerseits, indem sie auf uns zugeschnittene fundierte Abklärungen und Studien erarbeitet, zum andern spiegelt sie klug unsere Folgerungen und Überlegungen. Wir schätzen ihr kompetentes und unaufgeregtes Vorgehen und arbeiten sehr gern mit ihr zusammen.**
