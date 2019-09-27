@@ -50,9 +50,9 @@ fields:
   label: Description
   description: a
 pages:
+- index.md
 - Referenzprojekte.md
 - angebot.md
-- index.md
 - expertise.md
 - blog.md
 - kontakt.md

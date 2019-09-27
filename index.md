@@ -52,3 +52,7 @@ Darüber hinaus begleite ich Sie beim strategischen, inhaltlichen und organisato
 Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.
 
 Mit einer Förderung, die wirkt.
+
+> **Regula Wolf begleitet die Entwicklung unserer Förderstrategie mit grossem Fachwissen und reichem Erfahrungshintergrund. Dabei unterstützt sie uns einerseits, indem sie auf uns zugeschnittene fundierte Abklärungen und Studien erarbeitet, zum andern spiegelt sie klug unsere Folgerungen und Überlegungen. Wir schätzen ihr kompetentes und unaufgeregtes Vorgehen und arbeiten sehr gern mit ihr zusammen.**
+
+Monika Wirth, Geschäftsführerin Sophie und Karl Binding Stiftung
