@@ -50,8 +50,8 @@ fields:
   label: Description
   description: a
 pages:
-- expertise.md
 - index.md
+- expertise.md
 - blog.md
 - kontakt.md
 - Referenzprojekte.md
