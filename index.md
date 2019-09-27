@@ -35,6 +35,8 @@ keywords:
 description: Angebote für Stiftungen, private und öffentliche Förderorganisationen
   für Förderkonzepte und umsetzungsbereite Fördermassnahmen, Analysen, Recherchen,
   Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
+title: ''
+Date_String: 
 
 ---
 #### Analysen und wirkungsorientierte Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
@@ -45,7 +47,10 @@ Ich begleite Sie beim Aufbau einer wirkungsorientierten Förderung. Dabei plane 
 
 Darüber hinaus begleite ich Sie beim strategischen, inhaltlichen und organisatorischen Aufbau Ihrer Förderorganisation, bei der Überprüfung Ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
-Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.   
+**Durch die Verbindung von meinem langjährigen Förder-Know-how mit meinem nationalen Netzwerk auf allen förderalen Ebenen gelange ich in kurzer Zeit zu einem qualitativ hochwertigen Resultat.** 
+
+Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können. 
+
 Mit einer Förderung, die wirkt.
 
 > Beim Aufbau oder der Neupositionierung der Förderung fallen immer wieder Analysen an. Werden diese sorgfältig gemacht, ergibt sich ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.
