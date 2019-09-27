@@ -64,6 +64,7 @@ Definition von Zuständigkeiten, Funktionen und Aufgaben
 
 Redaktion von **Reglementen, Richtlinien** und **Berichten**
 
-![](/uploads/cooparation.jpg)
+> **Beim Aufbau oder der Neupositionierung der Förderung hat es sich bewährt, Umfeld- und Themenanalysen zu erstellen. Diese müssen nicht wissenschaftlich sein.  
+> Sie bieten ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.**
 
-> **_Kooperation statt Konkurrenz: Schubkraft dank Zusammenarbeit mit passenden Partnerorganisationen_**
+![](/uploads/cooparation.jpg)
