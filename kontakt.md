@@ -33,4 +33,4 @@ Telefon: +41 76 512 89 33
 E-Mail: [info@regulawolf.ch](mailto:info@regulawolf.ch)  
 [linkedin.com/in/regulawolf ](https://www.linkedin.com/in/regulawolf)
 
-> **_Gerne treffe ich Sie zu einem ersten unverbindlichen Gespräch und passe meine Angebote an die Bedürfnisse Ihrer Organisation an._**
+Gerne treffe ich Sie zu einem ersten unverbindlichen Gespräch und passe meine Angebote an die Bedürfnisse Ihrer Organisation an. 

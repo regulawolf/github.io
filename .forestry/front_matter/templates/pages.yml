@@ -50,12 +50,12 @@ fields:
   label: Description
   description: a
 pages:
+- kontakt.md
 - index.md
 - Referenzprojekte.md
 - angebot.md
 - expertise.md
 - blog.md
-- kontakt.md
 - _posts/2019-07-11-Gestalten-statt-verwalten.md
 - _posts/2019-07-11-PHINEO-Zukunft-von-Stiftungen.md
 - _posts/2019-07-11-In-3-Schritten-zur-wirkungsorientierten-Förderung.md
