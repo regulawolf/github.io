@@ -55,3 +55,5 @@ Bundesamt für Kultur: Co-Leitung „Projekt Tanz“ in Zusammenarbeit mit den K
 Analysen: u.a. zu den Themen Kulturerbe, Partizipation in Museen, Ältere Arbeitnehmende, Investigativer Journalismus und Tanz
 
 ![/uploads/cooparation.jpg](https://app.forestry.io/sites/x4dqfdfubch-eq/body-media//uploads/cooparation.jpg)
+
+> **_Kooperation statt Konkurrenz: Schubkraft dank Zusammenarbeit mit passenden Partnerorganisationen_**
