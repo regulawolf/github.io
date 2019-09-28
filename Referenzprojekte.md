@@ -56,4 +56,4 @@ Analysen: u.a. zu den Themen Kulturerbe, Partizipation in Museen, Ältere Arbeit
 
 ![/uploads/cooparation.jpg](https://app.forestry.io/sites/x4dqfdfubch-eq/body-media//uploads/cooparation.jpg)
 
-> **_Kooperation statt Konkurrenz: Schubkraft dank Zusammenarbeit mit passenden Partnerorganisationen_**
+> **Kooperation statt Konkurrenz: Schubkraft dank Zusammenarbeit mit passenden Partnerorganisationen**
