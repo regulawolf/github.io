@@ -2,7 +2,7 @@
 layout: page
 menu_title: Home
 banner_title: 'Förderung, die wirkt '
-banner_subtitle: ''
+banner_subtitle: strategisch - inhaltlich - organisatorisch
 seo_title: Regula Wolf I Förderung, die wirkt
 banner_image: "/uploads/IMG_9590_2.jpg"
 keywords:
@@ -41,9 +41,11 @@ Date_String:
 ---
 #### Analysen und wirkungsorientierte Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
 
-Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken? Sie wollen wissen, ob Ihr Engagement tatsächlich einen Unterschied macht?
+Sie wollen aktiv auf eine gesellschaftliche Herausforderung reagieren und mit Ihren Fördermitteln nachhaltig etwas bewirken?   
+Sie wollen wissen, ob Ihr Engagement tatsächlich einen Unterschied macht?   
+Sie wollen Ihre Förderorganisation neu positionieren?
 
-Ich begleite Sie beim Aufbau einer wirkungsorientierten Förderung. Dabei plane ich für Sie den Prozess mit den zentralen Meilensteinen, übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, begleite Sie bei der Entwicklung Ihrer Förderstrategie, von umsetzungsbereiten Fördermassnahmen oder beim Aufbau der Wirkungsmessung.  
+Ich begleite Sie beim Aufbau einer wirkungsorientierten Förderung. Dabei plane ich für Sie den Prozess mit den zentralen Meilensteinen, übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, entwickle mit IHnen Ihre Förderstrategie, umsetzungsbereite Fördermassnahmen oder plane für Sie den Aufbau der Wirkungsmessung.  
 Darüber hinaus begleite ich Sie beim strategischen, inhaltlichen und organisatorischen Aufbau Ihrer Förderorganisation, bei der Überprüfung Ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
 **Durch die Verbindung von meinem langjährigen Förder-Know-how mit meinem nationalen Netzwerk auf allen förderalen Ebenen gelange ich in kurzer Zeit zu einem qualitativ hochwertigen Resultat.**
