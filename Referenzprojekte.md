@@ -4,7 +4,7 @@ date: '2018-09-08T13:24:01.000+00:00'
 title: Referenzprojekte
 menu_title: Referenzprojekte
 banner_title: Referenzprojekte
-banner_subtitle: Auswahl
+banner_subtitle: ''
 seo_title: Regula Wolf I Stiftungs- und Public Management
 banner_image: "/uploads/Martinsloch_flacher.jpg"
 keywords:
@@ -40,6 +40,8 @@ description: Referenzprojekte Regula Wolf, Angebote für Stiftungen, private und
 Date_String: 2019-09-22 00:00:00 +0200
 
 ---
+#### Auswahl
+
 Stiftung für Kunst, Kultur und Geschichte (SKKG): Begleitung des Stiftungsrats beim Aufbau der Förderung im Bereich Kulturerbe
 
 Sophie und Karl Binding Stiftung: Entwicklung eines umsetzungsbereiten Fördermodells im Bereich Tanz
