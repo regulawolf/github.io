@@ -47,13 +47,13 @@ Sie wollen Ihre Förderorganisation neu positionieren oder eine neue Fördermass
 
 Sie wollen wissen, wer in Ihrem Förderthema bereits aktiv ist und wie der aktuelle Förderbedarf aussieht?
 
-Ich berate Sie in Fragen rund um das Thema Förderung. Dabei begleite ich Sie beim Aufbau einer wirkungsorientierten Förderung. Oder ich übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, entwickle mit Ihnen Ihre Förderstrategie sowie umsetzungsbereite Fördermassnahmen und plane für Sie den Aufbau der Wirkungsmessung.
+**Ich berate Sie in Fragen rund um das Thema Förderung. Dabei begleite ich Sie beim Aufbau einer wirkungsorientierten Förderung. Oder ich übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, entwickle mit Ihnen Ihre Förderstrategie sowie umsetzungsbereite Fördermassnahmen und plane für Sie den Aufbau der Wirkungsmessung.**
 
 Bei meiner Arbeit kann ich auf mein langjähriges Praxiswissen zurückgreifen: vier Jahre Bundesamt für Kultur, elf Jahre als Leiterin Förderbeiträge beim nationalen Migros-Kulturprozent. Ich habe mit diversen Förderstiftungen zusammengearbeitet und verfüge über einen umfassenden Überblick über den Schweizer Stiftungssektor. Durch die Verbindung von meinem Förder-Know-how mit meinem nationalen Netzwerk auf allen föderalen Ebenen gelange ich in vergleichsweise kurzer Zeit zu einem qualitativ hochwertigen Resultat.
 
-Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.  
-Mit einer Förderung, die wirkt.
+**Gerne unterstütze ich Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.  
+Mit einer Förderung, die wirkt.**
 
-> **Regula Wolf begleitet die Entwicklung unserer Förderstrategie mit grossem Fachwissen und reichem Erfahrungshintergrund. Dabei unterstützt sie uns einerseits, indem sie auf uns zugeschnittene fundierte Abklärungen und Studien erarbeitet, zum andern spiegelt sie klug unsere Folgerungen und Überlegungen. Wir schätzen ihr kompetentes und unaufgeregtes Vorgehen und arbeiten sehr gern mit ihr zusammen.**
+> Regula Wolf begleitet die Entwicklung unserer Förderstrategie mit grossem Fachwissen und reichem Erfahrungshintergrund. Dabei unterstützt sie uns einerseits, indem sie auf uns zugeschnittene fundierte Abklärungen und Studien erarbeitet, zum andern spiegelt sie klug unsere Folgerungen und Überlegungen. Wir schätzen ihr kompetentes und unaufgeregtes Vorgehen und arbeiten sehr gern mit ihr zusammen.
 
 Monika Wirth, Geschäftsführerin Sophie und Karl Binding Stiftung
