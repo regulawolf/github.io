@@ -50,10 +50,10 @@ fields:
   label: Description
   description: a
 pages:
+- angebot.md
 - index.md
 - Referenzprojekte.md
 - expertise.md
-- angebot.md
 - kontakt.md
 - blog.md
 - _posts/2019-07-11-Gestalten-statt-verwalten.md
