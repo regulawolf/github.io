@@ -41,8 +41,10 @@ Date_String:
 ---
 #### Analysen und wirkungsorientierte Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
 
-Sie wollen Ihre Förderung neu aufbauen und damit aktiv auf eine gesellschaftliche Herausforderung reagieren?  
-Sie wollen Ihre Förderorganisation neu positionieren oder eine neue Fördermassnahme entwickeln?  
+Sie wollen Ihre Förderung neu aufbauen und damit aktiv auf eine gesellschaftliche Herausforderung reagieren?
+
+Sie wollen Ihre Förderorganisation neu positionieren oder eine neue Fördermassnahme entwickeln?
+
 Sie wollen wissen, wer in Ihrem Förderthema bereits aktiv ist und wie der aktuelle Förderbedarf aussieht?
 
 Ich berate Sie in Fragen rund um das Thema Förderung. Dabei begleite ich Sie z.B. beim Aufbau einer wirkungsorientierten Förderung und plane für Sie den Prozess mit den zentralen Meilensteinen. Oder ich übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, entwickle mit Ihnen Ihre Förderstrategie sowie umsetzungsbereite Fördermassnahmen und plane für Sie den Aufbau der Wirkungsmessung.
