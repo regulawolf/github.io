@@ -48,7 +48,7 @@ Sie wollen Ihre Förderorganisation neu positionieren?
 Ich begleite Sie beim Aufbau einer wirkungsorientierten Förderung. Dabei plane ich für Sie den Prozess mit den zentralen Meilensteinen, übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, entwickle mit Ihnen Ihre Förderstrategie und umsetzungsbereite Fördermassnahmen oder plane für Sie den Aufbau der Wirkungsmessung.  
 Darüber hinaus begleite ich Sie beim strategischen, inhaltlichen und organisatorischen Aufbau Ihrer Förderorganisation, bei der Überprüfung Ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
 
-**Durch die Verbindung von meinem langjährigen Förder-Know-how mit meinem nationalen Netzwerk auf allen förderalen Ebenen gelange ich in kurzer Zeit zu einem qualitativ hochwertigen Resultat.**
+**Durch die Verbindung von meinem langjährigen Förder-Know-how (Bundesamt für Kultur und Leiterin Förderbeiträge beim Migros-Kulturprozent) mit meinem nationalen Netzwerk auf allen förderalen Ebenen gelange ich in kurzer Zeit zu einem qualitativ hochwertigen Resultat.**
 
 Gerne bringe ich mein Praxiswissen ein und unterstütze Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.  
 Mit einer Förderung, die wirkt.
