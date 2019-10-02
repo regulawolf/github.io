@@ -42,11 +42,9 @@ Date_String:
 #### Analysen und wirkungsorientierte Förderkonzepte für Stiftungen, private und öffentliche Förderorganisationen
 
 Sie wollen Ihre Förderung neu aufbauen und damit aktiv auf eine gesellschaftliche Herausforderung reagieren?  
-Sie wollen Ihre Förderorganisation neu positionieren oder eine neue Fördermassnahme entwickeln?  
-Sie möchten Ihren Gesuchsprozess optimieren?
+Sie wollen Ihre Förderorganisation neu positionieren oder eine neue Fördermassnahme entwickeln?
 
-Ich berate Sie in Fragen rund um das Thema Förderung. Dabei begleite Sie z.B. beim Aufbau einer wirkungsorientierten Förderung und plane für Sie den Prozess mit den zentralen Meilensteinen. Oder ich bernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, entwickle mit Ihnen Ihre Förderstrategie und umsetzungsbereite Fördermassnahmen und plane für Sie den Aufbau der Wirkungsmessung.  
-Darüber hinaus begleite ich Sie beim strategischen, inhaltlichen und organisatorischen Aufbau Ihrer Förderorganisation, bei der Überprüfung Ihrer Prozesse und Leistungen sowie bei der Neupositionierung.
+Ich berate Sie in Fragen rund um das Thema Förderung. Dabei begleite Sie z.B. beim Aufbau einer wirkungsorientierten Förderung und plane für Sie den Prozess mit den zentralen Meilensteinen. Oder ich bernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, entwickle mit Ihnen Ihre Förderstrategie und umsetzungsbereite Fördermassnahmen und plane für Sie den Aufbau der Wirkungsmessung.
 
 **Bei meiner Arbeit kann ich auf mein langjähriges Praxiswissen zurückgreifen: vier Jahre Bundesamt für Kultur, elf Jahre als Leiterin Förderbeiträge beim nationalen Migros-Kulturprozent. Im Rahmen meiner selbständigen Tätigkeit erlangte ich vertiefte Einblicke in diverse Stiftungen und einen umfassenden Überblick über den Schweizer Stiftungssektor. Durch die Verbindung von meinem Förder-Know-how mit meinem nationalen Netzwerk auf allen förderalen Ebenen gelange ich in vergleichsweise kurzer Zeit zu einem qualitativ hochwertigen Resultat.**
 
