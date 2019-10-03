@@ -46,5 +46,3 @@ Seit 2017 begleite ich Förderstiftungen auf vielfältige Weise und in unterschi
 In den Themenfeldern **Kultur, Soziales, Bildung und Entwicklungszusammenarbeit** verfüge ich über Expertise und kenne die öffentlichen als auch privaten Akteure in der Schweiz sowie erfolgreiche nationale und internationale Fördermodelle.
 
 Bei meiner Arbeit orientiere ich mich an zeitgemässen Management-Tools. Ich verfüge über einen Master in Public Management (IDHEAP/ Universität Lausanne), eine Vertiefung im Stiftungsmanagement (CEPS/ Universität Basel) und habe mehrere Weiterbildungen am Institut für Entwicklungszusammenarbeit (NADEL/ ETH Zürich) absolviert.
-
-![](/uploads/Portraits Regula April 15 008 (2)-1.JPG)

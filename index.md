@@ -47,6 +47,8 @@ Sie wollen wissen, wer in Ihrem Förderthema bereits aktiv ist und wie der aktue
 
 **Ich berate Sie in Fragen rund um das Thema Förderung. Dabei begleite ich Sie beim Aufbau einer wirkungsorientierten Förderung. Oder ich übernehme die Recherche- und Analysearbeit als Grundlage für Ihre strategischen Entscheide, entwickle mit Ihnen Ihre Förderstrategie sowie umsetzungsbereite Fördermassnahmen und plane den Aufbau der Wirkungsmessung.**
 
+![](/uploads/regula_wolf.JPG)
+
 Bei meiner Arbeit kann ich auf mein langjähriges Praxiswissen zurückgreifen: Vier Jahre Bundesamt für Kultur, elf Jahre als Leiterin Förderbeiträge beim nationalen Migros-Kulturprozent. Ich habe mit diversen Förderstiftungen zusammengearbeitet und verfüge über einen umfassenden Überblick über den Schweizer Stiftungssektor sowie die Schweizer Förderlandschaft. Durch die Verbindung meines Förder-Know-hows mit meinem nationalen Netzwerk gelange ich in vergleichsweise kurzer Zeit zu einem qualitativ hochwertigen Resultat.
 
 **Gerne unterstütze ich Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.  
