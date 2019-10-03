@@ -57,8 +57,7 @@ Beratung beim Aufbau eines effizienten **Gesuchsmanagement**
 
 Begleitung bei der (neu-) Gestaltung interner **Prozesse**
 
-Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau**:  
-Definition von Zuständigkeiten, Funktionen und Aufgaben
+Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau**: Definition von Zuständigkeiten, Funktionen und Aufgaben
 
 Redaktion von **Reglementen, Richtlinien** und **Berichten**
 
