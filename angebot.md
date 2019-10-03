@@ -41,8 +41,6 @@ Date_String: 2019-09-25T22:00:00.000+00:00
 ---
 #### Angebotspalette
 
-Ich berate Sie in Fragen rund um das Thema Förderung:
-
 Erarbeitung von Entscheidgrundlagen wie **Analysen** des Stiftungsumfelds, des Förderthemas (Akteure, Fördermarkt, aktuelle und künftige Herausforderungen) und des Bedarfs
 
 Begleitung des Stiftungsrats bei der Entwicklung der **Förderstrategie** (Förderschwerpunkte, Zielgruppen, Förderpartner, Wirkungsziele)
