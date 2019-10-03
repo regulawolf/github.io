@@ -36,12 +36,12 @@ keywords:
 description: Angebotspalette für Stiftungen, private und öffentliche Förderorganisationen
   für Förderkonzepte und umsetzungsbereite Fördermassnahmen, Analysen, Recherchen,
   Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
-Date_String: 2019-09-26 00:00:00 +0200
+Date_String: 2019-09-25T22:00:00.000+00:00
 
 ---
 #### Angebotspalette
 
-Ich berate Sie in Fragen rund um das Thema Förderung. Z.B.:
+Ich berate Sie in Fragen rund um das Thema Förderung:
 
 Erarbeitung von Entscheidgrundlagen wie **Analysen** des Stiftungsumfelds, des Förderthemas (Akteure, Fördermarkt, aktuelle und künftige Herausforderungen) und des Bedarfs
 
@@ -50,10 +50,6 @@ Begleitung des Stiftungsrats bei der Entwicklung der **Förderstrategie** (Förd
 Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen **Fördermassnahmen** oder ganzen **Förderprogrammen**
 
 Aufbau der **Wirkungsmessung**
-
-**Evaluation**
-
-**Moderation** von Sitzungen
 
 Begleitung beim Aufbau von **Kooperationen**
 
