@@ -61,4 +61,3 @@ Redaktion von **Reglementen, Richtlinien** und **Berichten**
 
 > **Beim Aufbau oder der Neupositionierung der Förderung hat es sich bewährt, Umfeld- und Themenanalysen zu erstellen. Diese müssen nicht wissenschaftlich sein. Sie bieten ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.**
 
-![](/uploads/cooparation.jpg)
