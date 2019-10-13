@@ -57,3 +57,7 @@ Mit einer Förderung, die wirkt.**
 > Regula Wolf begleitet die Entwicklung unserer Förderstrategie mit grossem Fachwissen und reichem Erfahrungshintergrund. Dabei unterstützt sie uns einerseits, indem sie auf uns zugeschnittene fundierte Abklärungen und Studien erarbeitet, zum andern spiegelt sie klug unsere Folgerungen und Überlegungen. Wir schätzen ihr kompetentes und unaufgeregtes Vorgehen und arbeiten sehr gern mit ihr zusammen.
 
 Monika Wirth, Geschäftsführerin Sophie und Karl Binding Stiftung
+
+> Mit sicherer Hand und fundierter Aussensicht begleitet Regula Wolf die Entwicklung unserer im Kulturerbe verorteten Förderstrategie. Jede Stufe im Prozess führt zu neuen Perspektiven, dabei ist die Zusammenarbeit mit Regula Wolf immer anregend und professionell.
+
+Dr. Bettina Stefanini, Präsidentin der Stiftung für Kunst, Kultur und Geschichte
