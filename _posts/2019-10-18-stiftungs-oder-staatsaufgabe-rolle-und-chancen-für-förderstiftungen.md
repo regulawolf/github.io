@@ -1,6 +1,6 @@
 ---
 title: ''
-Date_String: 
+Date_String: 2019-10-18 00:00:00 +0200
 layout: post
 menu_title: Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftungen
 banner_title: Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftungen
@@ -11,9 +11,10 @@ keywords: []
 description: ''
 
 ---
-_Dieser Artikel erschien ursprünglich am 18. Oktober 2019 auf StiftungSchweiz:_ [https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/](https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/ "https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/")
+_Dieser Artikel erschien am 18. Oktober 2019 auf StiftungSchweiz:_ [https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/](https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/ "https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/")
 
-**Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftungen**
+#### **Stiftungs- oder Staatsaufgabe?   
+Rolle und Chancen für Förderstiftungen**
 
 von Regula Wolf
 
@@ -25,8 +26,7 @@ Mit ihrem vermehrten Anspruch, einen Beitrag zu leisten an die gesellschaftliche
 
 Mit dieser ‚systemischen‘ Form der Förderung geht allerdings auch eine gewisse Verantwortung einher. Denn wenn ein öffentlicher Bedarf besteht und ‚nur‘ eine Stiftung darauf reagiert, stellt sich unweigerlich die Frage, was ist, wenn die Förderung ausbleibt. Um dieses Klumpenrisiko zu vermeiden, haben die Stiftungen zwei Möglichkeiten:
 
-1) Sie setzen einen Teil ihrer Ressourcen dafür ein, dass das Thema auf die politische Agenda gelangt und zur Staatsaufgabe erklärt wird (Advocacy).
-
-2) Sie planen noch vor Förderbeginn ihren Ausstieg. Sei es, indem die Förderung nach einer gewissen Laufdauer ihr Ziel erreicht hat und somit abgeschlossen werden kann, sei es, indem die Stiftung und die Projektpartner gemeinsam nach einer Trägerschaft suchen, welche die Förderung weiterführt.
+1. Sie setzen einen Teil ihrer Ressourcen dafür ein, dass das Thema auf die politische Agenda gelangt und zur Staatsaufgabe erklärt wird (Advocacy).
+2. Sie planen noch vor Förderbeginn ihren Ausstieg. Sei es, indem die Förderung nach einer gewissen Laufdauer ihr Ziel erreicht hat und somit abgeschlossen werden kann, sei es, indem die Stiftung und die Projektpartner gemeinsam nach einer Trägerschaft suchen, welche die Förderung weiterführt.
 
 Bei beiden Möglichkeiten sollten die Stiftungen in engem Austausch mit der öffentlichen Hand stehen. Dieser Austausch war übrigens Haupttehma des eingangs erwähnten Podiumsgesprächs, welches den Titel trug: „Plädoyer für einen neuen Dialog zwischen Stiftungen und Politik.“
