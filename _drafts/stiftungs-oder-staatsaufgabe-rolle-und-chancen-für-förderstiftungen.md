@@ -6,7 +6,7 @@ menu_title: Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftun
 banner_title: Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftungen
 banner_subtitle: ''
 seo_title: ''
-banner_image: ''
+banner_image: "/uploads/Guarini_Kapelle Sindone.jpg"
 keywords: []
 description: ''
 
