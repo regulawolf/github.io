@@ -1,9 +1,9 @@
 ---
 title: 'Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftungen '
 Date_String: 
-layout: ''
-menu_title: ''
-banner_title: ''
+layout: post
+menu_title: Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftungen
+banner_title: Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftungen
 banner_subtitle: ''
 seo_title: ''
 banner_image: ''
