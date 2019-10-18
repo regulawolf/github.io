@@ -50,8 +50,9 @@ fields:
   label: Description
   description: a
 pages:
-- index.md
+- _posts/stiftungs-oder-staatsaufgabe-rolle-und-chancen-für-förderstiftungen.md
 - angebot.md
+- index.md
 - Referenzprojekte.md
 - expertise.md
 - blog.md
