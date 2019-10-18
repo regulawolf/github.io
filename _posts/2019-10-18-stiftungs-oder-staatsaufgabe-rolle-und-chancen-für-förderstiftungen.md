@@ -13,8 +13,9 @@ description: ''
 ---
 _Dieser Artikel erschien am 18. Oktober 2019 auf StiftungSchweiz:_ [https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/](https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/ "https://blog.stiftungschweiz.ch/stiftungs-oder-staatsaufgabe-rolle-und-chancen-fuer-foerderstiftungen/")
 
-#### **Stiftungs- oder Staatsaufgabe?   
-Rolle und Chancen für Förderstiftungen**
+#### **Stiftungs- oder Staatsaufgabe?**
+
+#### **Rolle und Chancen für Förderstiftungen**
 
 von Regula Wolf
 
