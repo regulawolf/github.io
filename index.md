@@ -35,7 +35,7 @@ keywords:
 description: Angebote für Stiftungen, private und öffentliche Förderorganisationen
   für Förderkonzepte und umsetzungsbereite Fördermassnahmen, Analysen, Recherchen,
   Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
-title: ''
+title: 'Home'
 Date_String: 
 
 ---

@@ -1,5 +1,4 @@
 ---
-title: ''
 Date_String: 2019-10-18 00:00:00 +0200
 layout: post
 menu_title: Stiftungs- oder Staatsaufgabe? Rolle und Chancen für Förderstiftungen
