@@ -50,10 +50,10 @@ fields:
   label: Description
   description: a
 pages:
+- Referenzprojekte.md
 - _posts/2019-10-18-stiftungs-oder-staatsaufgabe-rolle-und-chancen-für-förderstiftungen.md
 - index.md
 - angebot.md
-- Referenzprojekte.md
 - expertise.md
 - blog.md
 - kontakt.md

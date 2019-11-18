@@ -37,7 +37,7 @@ keywords:
 description: Referenzprojekte Regula Wolf, Angebote für Stiftungen, private und öffentliche
   Förderorganisationen für Förderkonzepte und umsetzungsbereite Fördermassnahmen,
   Analysen, Recherchen, Organisation der Gesuchsbearbeitung, Begleitung der Neupositionierung
-Date_String: 2019-09-22 00:00:00 +0200
+Date_String: 2019-09-21T22:00:00.000+00:00
 
 ---
 #### Auswahl
@@ -54,7 +54,7 @@ Migros-Kulturprozent: In Zusammenarbeit mit den internen Fachpersonen Entwicklun
 
 Bundesamt für Kultur: Co-Leitung „Projekt Tanz“ in Zusammenarbeit mit den Kantonen, Städten, der Stiftung Pro Helvetia sowie Vertreterinnen und Vertretern der Tanzszene. Erarbeitung von Förderkonzepten in den Bereichen Ausbildung, Umschulung/Weiterbildung, Infrastruktur, Vermittlung, Wahrung
 
-Analysen: u.a. zu den Themen Kulturerbe, Partizipation in Museen, Ältere Arbeitnehmende, Investigativer Journalismus und Tanz
+Analysen: u.a. zu den Themen Kulturerbe ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Partizipation in Museen, Ältere Arbeitnehmende, Investigativer Journalismus und Tanz
 
 ![/uploads/cooparation.jpg](https://app.forestry.io/sites/x4dqfdfubch-eq/body-media//uploads/cooparation.jpg)
 
