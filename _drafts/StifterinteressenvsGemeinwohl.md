@@ -1,12 +1,12 @@
 ---
 title: ''
 Date_String: 
-layout: ''
-menu_title: ''
-banner_title: ''
+layout: post
+menu_title: Stifterinteressen vs Gemeinwohl? Über das Potential der Stiferinteressen
+banner_title: Stifterinteressen vs Gemeinwohl? Über das Potential der Stiferinteressen
 banner_subtitle: ''
 seo_title: ''
-banner_image: ''
+banner_image: "/uploads/Martinsloch.jpg"
 keywords: []
 description: ''
 
