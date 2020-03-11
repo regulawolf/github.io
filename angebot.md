@@ -41,23 +41,24 @@ Date_String: 2019-09-25T22:00:00.000+00:00
 ---
 #### Angebotspalette
 
-Erarbeitung von Entscheidgrundlagen wie **Analysen** des Stiftungsumfelds, des Förderthemas (Akteure, Fördermarkt, aktuelle und künftige Herausforderungen) und des Bedarfs
+Erstellung von **Themen- und Bedarfsanalysen** (Akteure, Fördermarkt, aktuelle und künftige Herausforderungen) im Sinne einer soliden Grundlage, um die Förderung passgenau und wirkungsvoll anzusetzen
 
-Begleitung des Stiftungsrats bei der Entwicklung der **Förderstrategie** (Förderschwerpunkte, Zielgruppen, Förderpartner, Wirkungsziele)
+Begleitung bei der Entwicklung der **Förderstrategie** (Förderschwerpunkte, Zielgruppen, Vision, Mission, Förderpartner, Wirkungsziele)
 
 Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen **Fördermassnahmen** oder ganzen **Förderprogrammen**
 
+**Sitzungs- und Workshopmoderation**
+
 Aufbau der **Wirkungsmessung**
 
-Begleitung beim Aufbau von **Kooperationen**
+Begleitung beim Aufbau von **Kooperationen und Netzwerken**
 
 Beratung beim Aufbau eines effizienten **Gesuchsmanagement**
 
 Begleitung bei der (neu-) Gestaltung interner **Prozesse**
 
-Beratung bei Fragen im Zusammenhang mit dem **Organisationssaufbau**: Definition von Zuständigkeiten, Funktionen und Aufgaben
+Beratung bei Fragen im Zusammenhang mit dem **Organisationsaufbau und der Organisationsentwicklung**: Definition von Zuständigkeiten, Funktionen und Aufgaben
 
 Redaktion von **Reglementen, Richtlinien** und **Berichten**
 
 > **Beim Aufbau oder der Neupositionierung der Förderung hat es sich bewährt, Umfeld- und Themenanalysen zu erstellen. Diese müssen nicht wissenschaftlich sein. Sie bieten ein solides Fundament für die Kernaufgabe von Stiftungen: Die wirkungsvolle Förderung.**
-
