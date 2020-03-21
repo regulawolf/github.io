@@ -1,9 +1,11 @@
 ---
 title: Förderung in Zeiten von Corona – 6 Möglichkeiten, wie Stiftungen helfen können
-Date_String: 
-layout: ''
-menu_title: ''
-banner_title: ''
+Date_String: 2020-03-20 00:00:00 +0100
+layout: post
+menu_title: Förderung in Zeiten von Corona – 6 Möglichkeiten, wie Stiftungen helfen
+  können
+banner_title: Förderung in Zeiten von Corona – 6 Möglichkeiten, wie Stiftungen helfen
+  können
 banner_subtitle: ''
 seo_title: ''
 banner_image: ''
@@ -11,6 +13,10 @@ keywords: []
 description: ''
 
 ---
+Dieser Artikel erschien am 20. März 2020 auf Stiftung Schweiz: [https://thephilanthropist.ch/foerderung-in-zeiten-von-corona-6-moeglichkeiten-wie-stiftungen-helfen-koennen/](https://thephilanthropist.ch/foerderung-in-zeiten-von-corona-6-moeglichkeiten-wie-stiftungen-helfen-koennen/ "https://thephilanthropist.ch/foerderung-in-zeiten-von-corona-6-moeglichkeiten-wie-stiftungen-helfen-koennen/")
+
+**Förderung in Zeiten von Corona – 6 Möglichkeiten, wie Stiftungen helfen können**
+
 Der erste Schock darüber, dass das Coronavirus nun auch unsere Gesellschaft zum Stillstand bringt, hat sich gelegt. Nun gilt es, schnell zu handeln. Der Staat gibt sein bestes. Doch braucht es wohl noch einige Zeit, bis das Prozedere geklärt und die ersten Finanzierungshilfen fliessen können. Förderstiftungen erhalten nun die Gelegenheit, ihr grosses Plus auszuspielen: Sie können – gerade im Vergleich zum Staat — schnell und unbürokratisch handeln.
 
 Nachstehend sechs Möglichkeiten, wie Stiftungen helfen können:
