@@ -45,6 +45,8 @@ Erstellung von **Themen- und Bedarfsanalysen** (Akteure, Fördermarkt, aktuelle 
 
 Begleitung bei der Entwicklung der **Förderstrategie** (Förderschwerpunkte, Zielgruppen, Vision, Mission, Förderpartner, Wirkungsziele)
 
+Begleitung von Stiftungen und Vereinen bei der Umstellung auf **Wirkungsorientierung**
+
 Gemeinsam mit den Zuständigen Entwicklung von umsetzungsbereiten einzelnen **Fördermassnahmen** oder ganzen **Förderprogrammen**
 
 **Sitzungs- und Workshopmoderation**
