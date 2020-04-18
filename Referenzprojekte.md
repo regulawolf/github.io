@@ -46,6 +46,12 @@ Stiftung für Kunst, Kultur und Geschichte (SKKG): Begleitung des Stiftungsrats 
 
 Sophie und Karl Binding Stiftung: Entwicklung eines umsetzungsbereiten Fördermodells im Bereich Tanz
 
+Stiftung DROSOS: Prozessbegleitung bei und Themen- und Bedarfsanalyse für die Entwicklung eines wirkungsorientierten Förderprogramms im Bereich Kulturelle Bildung
+
+Amt für Kultur, Kanton Zug: Projektskizze Auslegeordnung und Bedarfsanalyse
+
+Stiftung Wali Dad: Begleitung beim Stiftungsaufbau
+
 Migros-Kulturprozent: Entwicklung Drehbuchförderung
 
 Migros-Kulturprozent: Ausweitung der Stipendien auf ein umfassendes Nachwuchsförderprogramm in den Bereichen Musik, Schauspiel, Tanz und Bewegungstheater
@@ -54,7 +60,7 @@ Migros-Kulturprozent: In Zusammenarbeit mit den internen Fachpersonen Entwicklun
 
 Bundesamt für Kultur: Co-Leitung „Projekt Tanz“ in Zusammenarbeit mit den Kantonen, Städten, der Stiftung Pro Helvetia sowie Vertreterinnen und Vertretern der Tanzszene. Erarbeitung von Förderkonzepten in den Bereichen Ausbildung, Umschulung/Weiterbildung, Infrastruktur, Vermittlung, Wahrung
 
-Analysen: u.a. zu den Themen Kulturerbe ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Partizipation in Museen, Ältere Arbeitnehmende, Investigativer Journalismus und Tanz
+Analysen: u.a. zu den Themen Jugendförderung,Kulturerbe ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Partizipation in Museen ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Ältere Arbeitnehmende, Investigativer Journalismus, Tanz
 
 ![/uploads/cooparation.jpg](https://app.forestry.io/sites/x4dqfdfubch-eq/body-media//uploads/cooparation.jpg)
 
