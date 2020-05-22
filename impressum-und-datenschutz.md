@@ -1,6 +1,6 @@
 ---
 title: Impressum und Datenschutz
-Date_String: 2020-05-22 00:00:00 +0200
+Date_String: 2018-01-01 00:00:00 +0100
 layout: page
 menu_title: Impressum und Datenschutz
 banner_title: ''
