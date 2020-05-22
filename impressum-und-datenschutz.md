@@ -9,7 +9,6 @@ seo_title: Regula Wolf  I  Stiftungs- und Public Management
 banner_image: "/uploads/IMG_9590_2.jpg"
 keywords: []
 description: ''
-published: false
 
 ---
 <h1 id="top">Datenschutzerklärung</h1>
