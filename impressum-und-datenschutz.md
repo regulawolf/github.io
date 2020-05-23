@@ -1,9 +1,9 @@
 ---
 title: Impressum und Datenschutz
-Date_String: 2019-08-25 00:00:00 +0200
+Date_String: 2019-09-27 00:00:00 +0200
 layout: page
 menu_title: Impressum und Datenschutz
-banner_title: ''
+banner_title: Impressum und Datenschutz
 banner_subtitle: ''
 seo_title: Regula Wolf  I  Stiftungs- und Public Management
 banner_image: "/uploads/IMG_9590_2.jpg"
