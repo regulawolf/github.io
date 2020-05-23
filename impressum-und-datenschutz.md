@@ -1,6 +1,6 @@
 ---
 title: Impressum und Datenschutz
-Date_String: 2019-09-27 00:00:00 +0200
+Date_String: 2019-09-06 00:00:00 +0200
 layout: page
 menu_title: Impressum und Datenschutz
 banner_title: Impressum und Datenschutz
@@ -70,4 +70,4 @@ Wir verwenden Dienste von Dritten, um unser Angebot dauerhaft, nutzerfreundlich,
 
 8\. Schlussbestimmungen
 
-Wir haben diese Datenschutzerklärung mit dem Datenschutz-Generator von Datenschutzpartne rerstellt. Wir können diese Datenschutzerklärung jederzeit anpassen und ergänzen. Wir werden über solche Anpassungen und Ergänzungen in geeigneter Form informieren, insbesondere durch Veröffentlichung der jeweils aktuellen Datenschutzerklärung auf unserer Website.
+Wir haben diese Datenschutzerklärung mit dem Datenschutz-Generator von Datenschutzpartner erstellt. Wir können diese Datenschutzerklärung jederzeit anpassen und ergänzen. Wir werden über solche Anpassungen und Ergänzungen in geeigneter Form informieren, insbesondere durch Veröffentlichung der jeweils aktuellen Datenschutzerklärung auf unserer Website.
