@@ -1,6 +1,6 @@
 ---
 title: Impressum und Datenschutz
-Date_String: 2019-09-06 00:00:00 +0200
+Date_String: 2019-09-01 00:00:00 +0200
 layout: page
 menu_title: Impressum und Datenschutz
 banner_title: ''
@@ -27,7 +27,7 @@ Text und Bilder: Regula Wolf
 
 1\. Kontaktadresse
 
-Verantwortung für die Bearbeitung von Personendaten:   
+Verantwortung für die Bearbeitung von Personendaten:  
 Regula Wolf, Grünmattstrasse 62, 8055 Zürich, info@regulawolf.ch
 
 2\. Bearbeitung von Personendaten
@@ -70,4 +70,4 @@ Wir verwenden Dienste von Dritten, um unser Angebot dauerhaft, nutzerfreundlich,
 
 8\. Schlussbestimmungen
 
-Wir haben diese Datenschutzerklärung mit dem Datenschutz-Generator von Datenschutzpartnererstellt. Wir können diese Datenschutzerklärung jederzeit anpassen und ergänzen. Wir werden über solche Anpassungen und Ergänzungen in geeigneter Form informieren, insbesondere durch Veröffentlichung der jeweils aktuellen Datenschutzerklärung auf unserer Website.
+Wir haben diese Datenschutzerklärung mit dem Datenschutz-Generator von Datenschutzpartne rerstellt. Wir können diese Datenschutzerklärung jederzeit anpassen und ergänzen. Wir werden über solche Anpassungen und Ergänzungen in geeigneter Form informieren, insbesondere durch Veröffentlichung der jeweils aktuellen Datenschutzerklärung auf unserer Website.
