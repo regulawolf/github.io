@@ -21,7 +21,7 @@ Grünmattstr. 62, 8055 Zürich
 
 [info@regulawolf.ch](mailto:info@regulawolf.ch)  I  +41 76 512 89 33
 
-Text und Bilder: Regula Wolf
+Text: Regula Wolf
 
 **Datenschutzerklärung**
 
