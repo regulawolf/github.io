@@ -41,7 +41,7 @@ Date_String: 2019-09-25T22:00:00.000+00:00
 ---
 #### Angebotspalette
 
-Erstellung von **Themen- und Bedarfsanalysen** (Akteure, Fördermarkt, aktuelle und künftige Herausforderungen) im Sinne einer soliden Grundlage, um die Förderung passgenau und wirkungsvoll anzusetzen
+Erstellung von **Themen- und Bedarfsanalysen** (Akteure, Fördermarkt, aktuelle und künftige Herausforderungen, Bedarfe) im Sinne einer soliden Grundlage, um die Förderung passgenau und wirkungsvoll anzusetzen
 
 Begleitung bei der Entwicklung der **Förderstrategie** (Förderschwerpunkte, Zielgruppen, Vision, Mission, Förderpartner, Wirkungsziele)
 
