@@ -42,6 +42,8 @@ Date_String: 2019-09-21T22:00:00.000+00:00
 ---
 #### Auswahl
 
+Analysen: u.a. zu den Themen Jugendförderung, Kulturerbe ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Partizipation in Museen ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Ältere Arbeitnehmende, Investigativer Journalismus, Tanz ([https://www.binding-stiftung.ch/gesuche/gesuch-einreichen/binding-first-dance/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/"))
+
 Stiftung für Kunst, Kultur und Geschichte (SKKG): Begleitung des Stiftungsrats beim Aufbau der Förderung im Bereich Kulturerbe
 
 Sophie und Karl Binding Stiftung: Entwicklung eines umsetzungsbereiten Fördermodells im Bereich Tanz
@@ -57,8 +59,6 @@ Migros-Kulturprozent: Entwicklung Drehbuchförderung
 Migros-Kulturprozent: Ausweitung der Stipendien auf ein umfassendes Nachwuchsförderprogramm in den Bereichen Musik, Schauspiel, Tanz und Bewegungstheater
 
 Bundesamt für Kultur: Co-Leitung „Projekt Tanz“ in Zusammenarbeit mit den Kantonen, Städten, der Stiftung Pro Helvetia sowie Vertreterinnen und Vertretern der Tanzszene. Erarbeitung von Förderkonzepten in den Bereichen Ausbildung, Umschulung/Weiterbildung, Infrastruktur, Vermittlung, Wahrung
-
-Analysen: u.a. zu den Themen Jugendförderung,Kulturerbe ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Partizipation in Museen ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Ältere Arbeitnehmende, Investigativer Journalismus, Tanz ([https://www.binding-stiftung.ch/gesuche/gesuch-einreichen/binding-first-dance/](https://www.binding-stiftung.ch/gesuche/gesuch-einreichen/binding-first-dance/ "https://www.binding-stiftung.ch/gesuche/gesuch-einreichen/binding-first-dance/"))
 
 ![/uploads/cooparation.jpg](https://app.forestry.io/sites/x4dqfdfubch-eq/body-media//uploads/cooparation.jpg)
 
