@@ -11,7 +11,9 @@ keywords: []
 description: ''
 
 ---
-Was Stiftungen gegen Rassismus tun können
+Dieser Artikel erschien ursprünglich am 2. Juli 2020 auf dem Blog-Portal von THE PHILANTHROPIST: [https://thephilanthropist.ch/was-stiftungen-gegen-rassismus-tun-koennen/](https://thephilanthropist.ch/was-stiftungen-gegen-rassismus-tun-koennen/ "https://thephilanthropist.ch/was-stiftungen-gegen-rassismus-tun-koennen/")
+
+### Was Stiftungen gegen Rassismus tun können
 
 **Aktuell wird das Thema «Rassismus» heiss diskutiert. Das Gute daran ist, dass dabei nicht nur über Amerika gesprochen wird, sondern auch über die Schweiz und Europa. Denn tatsächlich haben sich hier in letzter Zeit rassistische Einstellungen unter «Normalbürger*innen» rasant verbreitet. Der zunehmende Erfolg von Parteien mit rassistischem Gedankengut zeigt, dass solche Einstellungen mittlerweile salonfähig geworden sind.**
 
@@ -21,13 +23,13 @@ Wo können Stiftungen in diesem politischen Thema ihre Rolle finden und wirksam 
 
 Im aktuellen Themenreport von PHINEO bin ich auf einen Ansatz gestossen, welcher das Problem an der Wurzel zu packen versucht. Weil ich ihn sehr inspirierend finde, stelle ich den Ansatz in diesem Blogbeitrag vor.
 
-Der Themenreport zeigt auf, dass, wer nachhaltig gegen Rassismus vorgehen will, dies am besten über die Stärkung des gesellschaftlichen Zusammenhalts tut. Die grosse Stärke des Reports liegt darin, dass er es schafft, das abstrakte Konstrukt «gesellschaftlicher Zusammenhalt» greifbar zu machen mit Hilfe eines Denkmodells. 
+Der Themenreport zeigt auf, dass, wer nachhaltig gegen Rassismus vorgehen will, dies am besten über die Stärkung des gesellschaftlichen Zusammenhalts tut. Die grosse Stärke des Reports liegt darin, dass er es schafft, das abstrakte Konstrukt «gesellschaftlicher Zusammenhalt» greifbar zu machen mit Hilfe eines Denkmodells.
 
 Dieses teilt den gesellschaftlichen Zusammenhalt unter Berufung auf ein sozialwissenschaftliches Modell in drei Arten sozialer Bindung auf:
 
-• Die engsten Bindungen zu Menschen mit vielen Gemeinsamkeiten wie Familie und Freunde (Bonding); 
+• Die engsten Bindungen zu Menschen mit vielen Gemeinsamkeiten wie Familie und Freunde (Bonding);
 
-• Bindungen zu Personengruppen mit weniger Gemeinsamkeiten wie Leute aus dem Quartier, Vertretende anderer Generationen oder anderer Glaubensrichtungen (Bridging); 
+• Bindungen zu Personengruppen mit weniger Gemeinsamkeiten wie Leute aus dem Quartier, Vertretende anderer Generationen oder anderer Glaubensrichtungen (Bridging);
 
 • Bindungen zu übergeordneten Institutionen wie Regierungen, Behörden oder Schulen und das Vertrauen darin, dass man durch demokratische Teilhabe seine Lebenswelt aktiv mitgestalten kann (Linking).
 
