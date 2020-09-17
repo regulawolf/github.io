@@ -42,7 +42,7 @@ Date_String: 2019-09-21T22:00:00.000+00:00
 ---
 #### Auswahl
 
-Analysen: u.a. zu den Themen Jugendförderung ([drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf](/uploads/drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf "drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf")), Kulturerbe ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Partizipation in Museen ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Ältere Arbeitnehmende, Investigativer Journalismus, Tanz ([https://www.binding-stiftung.ch/gesuche/gesuch-einreichen/binding-first-dance/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/"))
+Analysen: u.a. zu den Themen Jugendförderung, Kulturerbe ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Partizipation in Museen ([https://skkg.ch/foerderung/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/")), Ältere Arbeitnehmende, Investigativer Journalismus, Tanz ([https://www.binding-stiftung.ch/gesuche/gesuch-einreichen/binding-first-dance/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/"))
 
 Stiftung für Kunst, Kultur und Geschichte (SKKG): Begleitung des Stiftungsrats beim Aufbau der Förderung im Bereich Kulturerbe
 
