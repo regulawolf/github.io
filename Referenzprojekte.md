@@ -42,7 +42,7 @@ Date_String: 2019-09-21T22:00:00.000+00:00
 ---
 #### Auswahl
 
-Analysen: u.a. zu den Themen Jugendförderung ([drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf](/uploads/drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf "drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf")), Kulturerbe ([https://www.skkg.ch/pages/about](https://www.skkg.ch/pages/about "https://www.skkg.ch/pages/about")), Partizipation in Museen ([https://www.skkg.ch/pages/about](https://www.skkg.ch/pages/about "https://www.skkg.ch/pages/about")), Ältere Arbeitnehmende, Investigativer Journalismus, Tanz ([https://www.binding-stiftung.ch/gesuche/gesuch-einreichen/binding-first-dance/](https://skkg.ch/foerderung/ "https://skkg.ch/foerderung/"))
+Analysen: u.a. zu den Themen Jugendförderung ([drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf](/uploads/drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf "drosos-stiftung-themen-und-bedarfsanalyse-zu-den-jugendlichen-aus-der-schweiz.pdf")), Kulturerbe ([skkg_analyse_kulturerbe_2019_online.pdf](/uploads/skkg_analyse_kulturerbe_2019_online.pdf "skkg_analyse_kulturerbe_2019_online.pdf")), Partizipation in Museen ([skkg_analyse_partizipation_2019_online.pdf](/uploads/skkg_analyse_partizipation_2019_online.pdf "skkg_analyse_partizipation_2019_online.pdf")), Ältere Arbeitnehmende, Investigativer Journalismus, Tanz ([analyse_tanz_binding_stiftung_online-1.pdf](/uploads/analyse_tanz_binding_stiftung_online-1.pdf "analyse_tanz_binding_stiftung_online-1.pdf"))
 
 Stiftung für Kunst, Kultur und Geschichte (SKKG): Begleitung des Stiftungsrats beim Aufbau der Förderung im Bereich Kulturerbe
 
