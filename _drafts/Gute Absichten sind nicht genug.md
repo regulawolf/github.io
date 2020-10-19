@@ -8,7 +8,7 @@ banner_title: Gute Absichten sind nicht genug  Über unbeabsichtigte negative Fo
   der Förderung und wie sie verhindert werden können
 banner_subtitle: ''
 seo_title: ''
-banner_image: ''
+banner_image: "/uploads/Lingotto.jpg"
 keywords: []
 description: ''
 
