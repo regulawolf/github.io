@@ -2,10 +2,10 @@
 title: ''
 Date_String: 2020-10-19 00:00:00 +0200
 layout: post
-menu_title: Gute Absichten sind nicht genug  Über unbeabsichtigte negative Folgen
-  der Förderung und wie sie verhindert werden können
-banner_title: Gute Absichten sind nicht genug  Über unbeabsichtigte negative Folgen
-  der Förderung und wie sie verhindert werden können
+menu_title: Gute Absichten sind nicht genug - über unbeabsichtigte negative Folgen
+  der Förderung
+banner_title: Gute Absichten sind nicht genug - über unbeabsichtigte negative Folgen
+  der Förderung
 banner_subtitle: ''
 seo_title: ''
 banner_image: "/uploads/Lingotto.jpg"
