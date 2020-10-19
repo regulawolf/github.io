@@ -1,6 +1,6 @@
 ---
 title: ''
-Date_String: 
+Date_String: 2020-10-19 00:00:00 +0200
 layout: post
 menu_title: Gute Absichten sind nicht genug  Über unbeabsichtigte negative Folgen
   der Förderung und wie sie verhindert werden können
