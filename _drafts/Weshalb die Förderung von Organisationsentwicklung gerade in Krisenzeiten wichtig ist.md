@@ -13,6 +13,8 @@ keywords: []
 description: ''
 
 ---
+Dieser Artikel erschien ursprünglich am 22. Dezember 2020 auf dem Blog-Portal von THE PHILANTHROPIST: [Weshalb die Förderung von Organisationsentwicklung gerade in Krisenzeiten wichtig ist - THE PHILANTHROPIST](https://thephilanthropist.ch/weshalb-die-foerderung-von-organisationsentwicklung-gerade-in-krisenzeiten-wichtig-ist/)
+
 #### Weshalb die Förderung von Organisationsentwicklung gerade in Krisenzeiten wichtig ist
 
 Die aktuelle Pandemie gefährdet die existenzielle Grundlage zahlreicher Nonprofit-Organisationen. Sie sind stärker denn je gefordert. Gerade in solchen Krisen kristallisiert sich deutlich heraus, welche Organisationen gut aufgestellt sind und welche nicht. Organisationen, bei denen starre Strukturen dominieren und Flexibilität durch lange Entscheidwege erschwert wird, fällt es schwer, auf die aktuelle Herausforderung zu reagieren.
