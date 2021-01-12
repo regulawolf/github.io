@@ -48,7 +48,7 @@ Sie wollen Ihre Organisation neu positionieren oder eine neue Fördermassnahme e
 
 ![](/uploads/regula_wolf.JPG)
 
-Bei meiner Arbeit kann ich auf mein langjähriges Praxiswissen zurückgreifen: Vier Jahre Bundesamt für Kultur, elf Jahre Leiterin Förderbeiträge beim nationalen Migros-Kulturprozent und seit 2017 im Rahmen meiner selbständigen Tätigkeit Zusammenarbeit mit diversen Förderstiftungen. Ich verfüge über einen umfassenden Überblick über den Schweizer Stiftungssektor und die Schweizer Förderlandschaft. Durch die Verbindung meines Förder-Know-hows mit meinem nationalen Netzwerk gelange ich in kurzer Zeit zu einem qualitativ hochwertigen Resultat.
+Bei meiner Arbeit kann ich auf mein langjähriges Praxiswissen zurückgreifen: Vier Jahre Bundesamt für Kultur, elf Jahre Leiterin Förderbeiträge beim nationalen Migros-Kulturprozent und seit 2017 im Rahmen meiner selbständigen Tätigkeit in Zusammenarbeit mit diversen Förderstiftungen. Ich verfüge über einen umfassenden Überblick über den Schweizer Stiftungssektor und die Schweizer Förderlandschaft. Durch die Verbindung meines Förder-Know-hows mit meinem nationalen Netzwerk gelange ich in kurzer Zeit zu einem qualitativ hochwertigen Resultat.
 
 **Gerne unterstütze ich Sie dabei, Ihre Organisation so aufzustellen, damit Sie nachhaltig und mit einer schlanken Struktur die gesellschaftliche Entwicklung mitgestalten können.  
 Mit einer Förderung, die wirkt.**
